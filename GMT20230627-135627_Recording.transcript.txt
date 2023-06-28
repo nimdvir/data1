@@ -1,0 +1,1018 @@
+WEBVTT
+
+1
+00:00:21.530 --> 00:00:26.600
+Nim Dvir: I am a going to do a quick poll question
+
+2
+00:00:26.820 --> 00:00:27.780
+Nim Dvir: in.
+
+3
+00:00:28.220 --> 00:00:34.190
+Nim Dvir: and the questions about the exercise that you had to do over the weekend. And
+
+4
+00:00:35.950 --> 00:00:37.809
+Nim Dvir: how was that
+
+5
+00:00:37.840 --> 00:00:39.510
+Nim Dvir: exercise?
+
+6
+00:00:41.450 --> 00:00:45.390
+Nim Dvir: And I remind you that the exercise are worth a bit
+
+7
+00:00:45.560 --> 00:00:51.359
+Nim Dvir: more points in. So I'm going to ask you easy.
+
+8
+00:00:53.540 --> 00:00:55.280
+Nim Dvir: Oh, sorry a second.
+
+9
+00:01:06.810 --> 00:01:17.180
+Nim Dvir: Okay, so I'm gonna launch this, then a poll, just to get things started. So if you don't mind. And so the poll questions, how is the exercise for you.
+
+10
+00:01:20.140 --> 00:01:22.089
+Nim Dvir: are you here? Are you with me
+
+11
+00:01:25.140 --> 00:01:28.120
+Nim Dvir: just to see that you are here?
+
+12
+00:01:29.850 --> 00:01:35.050
+Nim Dvir: Okay, it. So the majority city was so so.
+
+13
+00:01:35.260 --> 00:01:36.450
+Nim Dvir: and
+
+14
+00:01:36.870 --> 00:01:49.809
+Nim Dvir: I mean the bad news is that this was the easiest one. You know. The exercises are just going to get higher and harder, and you really cannot do well
+
+15
+00:01:49.810 --> 00:02:11.560
+Nim Dvir: without doing the readings. So it's up to you. I mean your students. You have to be responsible for yourself. It's up to you to make sure that you are doing the readings. A. I will go over the answers I already created the exercise. So you're gonna have you have the grades on by space. And
+
+16
+00:02:11.580 --> 00:02:40.750
+Nim Dvir: it's gonna be more complicated as we move on. I remind you that you're doing a full semester here in less than 6 weeks, meaning that it's a very, very, very packed course. And I I I need to follow the requirements of the university, since the course is worth 3 credits, so it has to be the same course. It just needs to be more packed because the time is shorter. I, personally, as a student, I prefer that. And just to get things out of the way.
+
+17
+00:02:40.760 --> 00:02:46.050
+Nim Dvir: But it it also means that you have to work harder. So if you didn't read it.
+
+18
+00:02:46.400 --> 00:03:08.170
+Nim Dvir: then you're gonna be in trouble. So it's basically your responsibility a as much as possible. I'm gonna go over the answers. I'm just gonna ask one more poll. And this is an important one. I see that not a lot of you here, which is also disappointing it. It just means that people are not taking it seriously. And and the question is, did you do the reading
+
+19
+00:03:08.170 --> 00:03:19.599
+Nim Dvir: and the reading this week? I asked you to read the most important it to read Chapter 2 in the Conquy book in the database concepts book. So did you do the reading?
+
+20
+00:03:33.430 --> 00:03:34.700
+Nim Dvir: Yes.
+
+21
+00:03:35.700 --> 00:03:36.920
+schemed
+
+22
+00:03:37.750 --> 00:03:38.890
+Nim Dvir: and no.
+
+23
+00:03:45.160 --> 00:03:50.220
+Nim Dvir: So I'm gonna launch. So did you reach up to 2 in the crunky book.
+
+24
+00:03:51.060 --> 00:03:52.320
+Nim Dvir: The
+
+25
+00:03:58.960 --> 00:04:08.560
+Nim Dvir: okay? So the majority of you schemed it. I I I see that not everyone is participating in the survey. So if you're here and you're not in the survey. So
+
+26
+00:04:09.350 --> 00:04:15.810
+Nim Dvir: basically, it's like, you're not here. A, I also use this for attendance. So and
+
+27
+00:04:16.570 --> 00:04:42.059
+Nim Dvir: it so, I strongly, strongly encourage you. I mean, there's a limit to what I can do and think. I can go to your homes and force you to read, but in that can only an advocate and repeat myself over and over that you really need to read chapter 2. In order to do well. Chapter 2 talks about the relation new model, which is what I'm going to cover today. So before I go into the
+
+28
+00:04:42.150 --> 00:05:06.919
+Nim Dvir: Into the lecture, I'm gonna share my screen, and I'm gonna show you the answers that I have for the first exercise, meaning also that once I'm showing it to you now, they they won't be any late submissions, because I'm basically giving you the answers. So if you submit it until now, then, you find you're all degraded. If you didn't, then you're gonna get a 0 for this
+
+29
+00:05:07.110 --> 00:05:15.940
+Nim Dvir: and he just needs to do well. A on the rest of the things, So I am a sharing my screen.
+
+30
+00:05:17.730 --> 00:05:21.330
+Nim Dvir: I will share this screen. I hope you can see.
+
+31
+00:05:21.560 --> 00:05:23.100
+Nim Dvir: Okay, so
+
+32
+00:05:23.350 --> 00:05:29.139
+Nim Dvir: please let me know in the chat if you can see my screen. So it was.
+
+33
+00:05:29.140 --> 00:05:53.930
+Nim Dvir: as as far as I'm concerned, a very easy exercise, just because it's 3 questions. And it's very, very basic. So, and it describes a spreadsheet spreadsheet is still not a database. It's this stuff before it. It's just like, you know, it's from. So it's spreadsheet with columns and row the first one is equipment, and you have the columns and number description.
+
+34
+00:05:53.930 --> 00:06:18.920
+Nim Dvir: acquisition, date at position price. You then have a a. The second one is a company spreadsheet with different columns about the company, A third one is also about a company with more columns about the company. This one also have the president name that already. Should it trigger you that to see that there's more than one theme here a, then the a computer and spreadsheet
+
+35
+00:06:18.920 --> 00:06:34.700
+Nim Dvir: with a columns about the computer, and he a spreadsheet about persons A that we have here. The name did of Hire Department Department is already in and you a theme, a project project manager. So
+
+36
+00:06:34.700 --> 00:06:45.279
+Nim Dvir: here we see that there's a lot of things. So the first question indicate the number of things you think the spreadsheet include and give an appropriate name for each.
+
+37
+00:06:45.610 --> 00:06:49.560
+Nim Dvir: a for each theme, and you also need to a and
+
+38
+00:06:49.860 --> 00:06:54.979
+Nim Dvir: and state your assumption. What if I'm going to it? I see, there's a question in the chat.
+
+39
+00:06:55.840 --> 00:06:56.520
+Nim Dvir: Hmm.
+
+40
+00:06:56.800 --> 00:07:18.270
+Nim Dvir: just yes. Okay. So The first, a concept that we learned in this class is that each table needs to only have one theme, meaning one topic. Each table covers just one topic. We do that in in order to and not mix things up and to keep it organized, and not to repetition and to keep it efficient.
+
+41
+00:07:18.270 --> 00:07:35.470
+Nim Dvir: So let's go to the first column equipment. You only have one theme. You see, it just talks about the equipment, the number of description, acquisition, price. I don't see any repetition here. So one theme for A. B. We have 2 themes. What does it mean?
+
+42
+00:07:36.500 --> 00:07:38.580
+Nim Dvir: I'm be in?
+
+43
+00:07:38.650 --> 00:08:03.650
+Nim Dvir: We have the company, and but we also have the officer. So why do we break it up into 2 things, company and officers. Because, let's say, we have multiple officers working for the same company. So we have officer, name, officer, Jerry, Officer Jesse. All of those officers. So every role in the table. We also need to write, repeat ourselves, and write the name of
+
+44
+00:08:03.650 --> 00:08:28.650
+Nim Dvir: of the company. We all work for you all, but so you all. When you open you open you, we repeat multiple times with different officers. It's very inefficient. The next question ask you a modification problem. That's a modification problem. If you have to repeat ourselves multiple times. So 2 themes in one that's not good. A currency has only one theme, just one company. Let's assume that there's only one
+
+45
+00:08:28.650 --> 00:08:53.649
+Nim Dvir: one president for the company. So just one, the also one computer. If we determine that they can model. And if they make a monitor and determine this step in this capacity. So there's no repetition. A. We can have 2 themes if we assume that we can model, do the term. So if we have a petition here in the computer, we have an let's say, del latitude that let it.
+
+46
+00:08:53.650 --> 00:09:14.899
+Nim Dvir: for example, and then different types of computers. Then that's 2 columns we put together latitude in one column, and then the different serial numbers in a different in one table, and the different serial numbers in a different table. That the spreadsheet that I am interested in is E, because this one has multiple things. It's very inefficient.
+
+47
+00:09:15.110 --> 00:09:40.059
+Nim Dvir: A. I counted a 4. So first one is a person for employment, then we have a theme for the department, a theme for project, and a team for assignment. So 4 different themes in one spreadsheet, a meaning that if we fill it like this, it's just us repeating yourself every time, every instance so different people. So it's a
+
+48
+00:09:41.150 --> 00:09:44.680
+Nim Dvir: sorry. And so
+
+49
+00:09:44.790 --> 00:10:05.290
+Nim Dvir: we repeat the different people that were higher than you could places. Every time we we, we write a different person. We also need to write the name of the departments. They we also need to write the projects and the project manager. This is very, very complicated. Not how we do it. We use a relational, a databases in this instance.
+
+50
+00:10:05.300 --> 00:10:30.760
+Nim Dvir: So that's not the good way to do it. And so let's talk about notification problems, what notification problem meaning, what can go wrong when we insert data or update data with the lead data, basically when we do any changes in the table. So for B, the one with the company and the officers. If if a company change industry code, there may be inconsistencies. So
+
+51
+00:10:30.760 --> 00:10:50.779
+Nim Dvir: just think about when you have to to a put the data multiple times, if you or or to change it multiple times. Let's say the industry code is ABC and it changed to Cba. We have to change it a hundred times right? Instead of just changing it once. So that's a modification problem. Same thing.
+
+52
+00:10:51.340 --> 00:11:16.340
+Nim Dvir: a. We can say the same thing for D, or we can say, if we have to insert data, we have to insert the same data. Otherwise we are liking the data and E, and there's a lot of inconsistencies. So, for example, let's say, we, as a new project manager. So a we have to put, we have to put the same person multiple times, let's say.
+
+53
+00:11:16.340 --> 00:11:26.340
+Nim Dvir: now we are all in the same project. A. The project manager name is Elliot Rich, the department head. Let's say he's replaced by Kevin Williams. We have
+
+54
+00:11:26.410 --> 00:11:48.019
+Nim Dvir: 100 people under him, and we have to write Kevin Williams a hundred times right. That's very inefficient. We only want to write to us. And the solution for this is relational database. Then a let's break up the A themes into multiple tables. Now, we use something that's called schema
+
+55
+00:11:48.020 --> 00:11:59.470
+Nim Dvir: a. This is a schema. In the schema. We write the name of the table in the upper case. Then we open parentheses, and we write the name of the columns. Each current starts with an app
+
+56
+00:11:59.470 --> 00:12:23.789
+Nim Dvir: with the uppercase, and then it regular so, and it's the same thing. So it's equipment. B, we have 2 tables. One is a table for company with a company Id name industry, code in growth sales, the other is for officers. So the officers and the companies are in 2 different tables that connected together in Keith A, which I'm going to explain today. So you see, the company Id here
+
+57
+00:12:23.790 --> 00:12:30.140
+Nim Dvir: points to the company here. See, we have one table company, and the
+
+58
+00:12:30.140 --> 00:12:53.929
+Nim Dvir: let's say we break it. So we have one for computer serial number make and model, and the other one. And if we make a model that just a a give, the details about the making the model. And for E, we have 4 different tables. So one for person with the person Id. Every. Every table has to have a unique key. That's just a unique identifier of each role.
+
+59
+00:12:53.930 --> 00:13:00.320
+Nim Dvir: So we have a personal Id. We have their name, then they of hire, and the department name
+
+60
+00:13:00.320 --> 00:13:24.540
+Nim Dvir: either the and that's all we have for the department in the department table where department name, and then the department manager. So if the manager changes like the example that I gave you, let's say, area which is being replaced by Kevin Williams, which we just change it once here in the department table. So we just change here one time and then changes for everyone. Do you understand? This is the beauty of relational models
+
+61
+00:13:24.640 --> 00:13:52.730
+Nim Dvir: that you will only change this once in one table. We don't want to change it a hundred times for everyone in in the project we have projected the project manager A, and then in the assignment project to the person id and number of hours. So let's say, I work on a project that's called the ATM. 3. I I walk on it like in 6 h a week, and my project. A manager is at rich. I don't have to write it multiple times.
+
+62
+00:13:52.730 --> 00:14:10.589
+Nim Dvir: I only write it to once. The project is 3 30 vit. And 330, Elliott, which is the manager. And and that's it. I only write it once, and that way we prevent justification problem like Updating like the leading like inserting, and all of that
+
+63
+00:14:10.850 --> 00:14:14.819
+Nim Dvir: any questions please use the chat if you have any questions for me.
+
+64
+00:14:19.130 --> 00:14:26.359
+Nim Dvir:  I feel like you are a bit tired today, and it's only the second week people. So
+
+65
+00:14:26.430 --> 00:14:27.510
+Nim Dvir: let's wake up.
+
+66
+00:14:27.750 --> 00:14:47.519
+Nim Dvir: Okay, hey? Please use the chat to ask questions. I'm gonna go over the slides. The slides are available to you on a blackboard. As sorry we are bright spacing so on, Brightspace. I hope you manage to do it and and that you on run to too many difficulties.
+
+67
+00:14:47.520 --> 00:15:09.990
+Nim Dvir: So we are. In our second week this week. You had to read first of all, of course, check to one in the current key book, but also chapter 2, the the one that that deals with a relational model. So I want you to read. Chapter 2 a. On Thursday we'll do a quick introduction to access.
+
+68
+00:15:09.990 --> 00:15:21.039
+Nim Dvir: And today I'm just gonna go over the theoretical part about the relation tomorrow. So if haven't done so, please jump in and read check to to thoroughly.
+
+69
+00:15:21.330 --> 00:15:27.950
+Nim Dvir: The purpose of this chapter is to provide you with the conceptual foundation of relational model
+
+70
+00:15:28.090 --> 00:15:53.050
+Nim Dvir: to understand how relation the fair for non relational tables learn the basic terminology, learn a why do we use keys? What our keys? A. A. Why are they important? A. How do keys represent relationship between tables? A. In, why circuit keys? What is the functional dependency? And, very importantly, how we normalize a table. So these are all
+
+71
+00:15:53.050 --> 00:15:59.710
+Nim Dvir: a fundamental concept in in database, design, and management. So
+
+72
+00:15:59.860 --> 00:16:22.900
+Nim Dvir: what is a relational model? And why is it important? It? I would say, the relational model is the most important a concept in database, a in the in the world of databases. It basically means that instead of having all the data in one table, we break it into multiple tables that are relating to one another.
+
+73
+00:16:22.900 --> 00:16:47.879
+Nim Dvir: Okay, so this, the most important part of database. That's basically what separates database and other and and just regular spreads in database. We have multiple tables that are connected together a, we connect them using keys, each keys indicate a different roles. So that's how we connect them and and we use it in order to maintain the efficiency
+
+74
+00:16:47.880 --> 00:16:56.969
+Nim Dvir: of the design. So a our goal is not to repeat, not to repeat ourselves, and not to have a redundancy. So
+
+75
+00:16:56.970 --> 00:17:21.390
+Nim Dvir: in in each table we have one theme, one, let's say one for the activities, one for roads. And then when we connect them together, we can create a different tables. But a, the data is kept separately, and then we don't have to repeat ourselves. So let me just go over. The terminology is slowly. First of all, entity entity is everything that we represent in a database. It's just
+
+76
+00:17:21.390 --> 00:17:34.359
+Nim Dvir: a unique object that we will present a. For example, people, products, organization. All of those things are entities. What we represent in database are engages just the terminology.
+
+77
+00:17:34.360 --> 00:17:59.899
+Nim Dvir: And so, for example, here, entity, it's a thing. So we can have an entity for a and an entity for songs. So let's imagine that we have a table for artists and a table for songs. Why do we keep it in a relation? What? Why do we have a table for artists and a table for some separately. Why don't we put it in the same table? So, for example, we have a table.
+
+78
+00:17:59.910 --> 00:18:12.939
+Nim Dvir: and we have Taylor Swift. We have Adele, we have Rihanna, and then we have a table for songs, with all the Taylor, swift songs with all the Adele Phones and all the Rianna sons. Why do we keep it separately
+
+79
+00:18:13.340 --> 00:18:19.030
+Nim Dvir: in the chat, please? Who knows? Why do we want to keep it separated and not do it in the same table
+
+80
+00:18:23.790 --> 00:18:27.099
+Nim Dvir: participate. So I can see that you're with me.
+
+81
+00:18:27.370 --> 00:18:29.180
+Nim Dvir: Why do we keep it separately?
+
+82
+00:18:31.440 --> 00:18:33.300
+Nim Dvir: Okay. To have one theme
+
+83
+00:18:34.570 --> 00:18:58.479
+Nim Dvir: to avoid repeats exact. Very good. Second, that's what I was aiming for. So Taylor Swift has multiple phones a. Instead of just writing Taylor Swift, Taylor Swift toilet with a hundred times. We just write the key just what symbolizes tell us which. So let's say she's number one in the table artist. Then we just write one, and then the name of this 1 one name was a
+
+84
+00:18:58.480 --> 00:19:11.289
+Nim Dvir: same for Rihanna. Let's say Rihanna is number 3 in our table. We'll just write 3 name of the song, and then we don't have to repeat ourselves. And then, let's say Rianna decided to change her names.
+
+85
+00:19:11.290 --> 00:19:34.379
+Nim Dvir: There's something add a name to, so we just add the name once in the table artist, and we don't have to name to to do the change, and merely a hundred times because she has a lot. She has a very big repertoire. We don't have to change it a lot of times, so I think that you got it. That's a good answer. So entity is not a table to the entity. Just to think a when we
+
+86
+00:19:34.630 --> 00:19:55.859
+Nim Dvir: they talk about tables, we also use the word relation. So from now on. They just know that when I say it relation, I mean the table. It's just a term that we use interchangeably. So relation is a table table is a relation, basically 2 dimensional table with rose and columns. So relation is
+
+87
+00:19:56.570 --> 00:19:57.820
+Nim Dvir: a table.
+
+88
+00:19:58.120 --> 00:20:12.110
+Nim Dvir: And this is an important slide. Just keep it for your records it. It gives you all the basic, a characteristics of a a proper relation, a proper table. So
+
+89
+00:20:12.420 --> 00:20:20.239
+Nim Dvir: at the at the relation or at the table. Each role contains data about a different entity. So let's say, you have a table for artists.
+
+90
+00:20:20.270 --> 00:20:37.700
+Nim Dvir: the S. These artists. Each row contains data about a different artist, Jana Adel A. Taylor Swift and Harry styles all of that. A columns contain data about attributes, so we can have a column first name, a last name.
+
+91
+00:20:37.700 --> 00:20:51.649
+Nim Dvir: age, a country of origin. Things like that that are just characterized, the a entity, a. So that's the columns. They they are common, For all the instances. So
+
+92
+00:20:51.820 --> 00:20:59.790
+Nim Dvir: a columns are a attributes in a relation. Characteristics sales in the table. They hold
+
+93
+00:20:59.790 --> 00:21:22.330
+Nim Dvir: one single value. You can have multiple values within the cell. So let's say we have a column that says birth here. We can only have one number there we can have multiple numbers, a country of origin. Just one. If they have 2, then they have to be in separate roles. A. All entries in the column are of the same kind, so if a column is a birth year, it holds to be numbers.
+
+94
+00:21:22.330 --> 00:21:28.260
+Nim Dvir: Why does all entries in a column needs to be of the same kind of the same data.
+
+95
+00:21:28.710 --> 00:21:40.939
+Nim Dvir: So we have to define why, first name, as if we define it, has to be a text. It has to be a text for everyone and birth. Here we decide. It's a number. It has to be a number for everyone. Why.
+
+96
+00:21:41.090 --> 00:21:42.400
+Nim Dvir: please use the check.
+
+97
+00:21:48.360 --> 00:21:49.120
+Nim Dvir: hey?
+
+98
+00:21:50.750 --> 00:21:52.640
+Nim Dvir: Consistency? But by.
+
+99
+00:21:52.850 --> 00:21:59.909
+Nim Dvir: But let's let's do it. Let's think of practicality like, okay, consistency. That's nice. But what actually can happen?
+
+100
+00:22:00.400 --> 00:22:03.830
+Nim Dvir: Why, like, what's the actual reason
+
+101
+00:22:05.200 --> 00:22:07.430
+Nim Dvir: not just to make it look nice and pretty
+
+102
+00:22:18.050 --> 00:22:27.689
+Nim Dvir: a void. Nol is closer. But no, actually, it's not that sorry. My video is a little jumpy. And no, it's not just not just no values, you know.
+
+103
+00:22:27.950 --> 00:22:33.770
+Nim Dvir: because nor can can happen. Okay, I'll tell you
+
+104
+00:22:33.860 --> 00:23:03.689
+Nim Dvir: for operations, right? Because when we run an operation, you see on the database, if we mix text and numbers, then it's going to be a mess. So if you remember, I showed you data types in this a lecture. So if it's a number. Then we can do. We can edit, we can summarize, we can, we can multiply it, we can average it. We can do all those things which we can do with text. We text, we can change it up with a slower case which we can do with numbers. So it depends so that basically defines which operations and can do.
+
+105
+00:23:03.690 --> 00:23:31.309
+Nim Dvir: Each column has a unique name. That's kind of like self. that's that's pretty obvious. But that's a a and make sure we understand it. Each calm has to have a unique name because we use it for different operations. So it's a database needs to know which call we are referring to. So we can have the same name to to different columns. Each call has to have different names. Just so that say just so when we run our operation they will, as the Davis will know.
+
+106
+00:23:31.710 --> 00:23:56.399
+Nim Dvir: what are we talking about? And the all of the comes is usually not important doesn't matter if the birth year come after the the control origin. All that the order of the roles is also not important in a usually no 2 rows may hold identical sets of data values because they will create a repetition. And also if the database, when we refer to a row, if there's 2 more than one row it, it will get mixed up.
+
+107
+00:23:56.620 --> 00:24:27.110
+Nim Dvir: So no identical values. These are the rules of the good table. Keep it and remember it. And now we talked about a schema schema is when we describe textually a database. It just describes the structure of the database, the name of the table, or the relation has to be written in all caps and and a. The columns are inside the parentheses, and they the first. Only. The first letter is capitalized, and that's how we describe
+
+108
+00:24:27.850 --> 00:24:32.970
+Nim Dvir: a a, a, a table. So, for example, here we have
+
+109
+00:24:33.440 --> 00:24:54.620
+Nim Dvir: a a table for a text. The first one is the right one. The the first column is usually the a primary key, the identification. So here in the textbook, it's Isbn is a unique number that identify books. There's no repetition there. So each textbook has a unique Ica.
+
+110
+00:24:55.750 --> 00:24:59.650
+Nim Dvir: Oh, so I'm a little sick. And
+
+111
+00:24:59.670 --> 00:25:26.340
+Nim Dvir: so we have the column. Ipn, then title, publisher, and copyright. This is Schema. This is how we describe a textbook. The second example is not good, because you see that there's a column that says authors, it has multiple values that's not good. We can't have multiple values inside one column so that can happen. And also this is not a good example, because we can't have the same columns
+
+112
+00:25:26.340 --> 00:25:36.180
+Nim Dvir: and with the same name. So if we insist, we can have also one, also 2, or 3. But I would just prefer to have author in a different table and then create a relationship.
+
+113
+00:25:36.180 --> 00:26:01.170
+Nim Dvir: That's better, But this is a schema. This is how you write and describe a database. So let's talk about the terms. And first of all, a table can also be called the file or a relationship. We'll use those terms interchangeably table file relation relation table, the things inside the tables we have robes. We can also call them records, or to
+
+114
+00:26:01.170 --> 00:26:29.360
+Nim Dvir: usually use records or instances as well. It so rows are inside a table, and we have columns that the columns can also be called fields or attributes. They are all the same things. So it's the same terms, columns A and comes in rows outside the table. We also have attributes and records. There's a relationship. So just know those terms when you see them. Just know that field a means
+
+115
+00:26:29.360 --> 00:26:35.769
+Nim Dvir: the the values of a column or attribute and a role can be record. And table is a relationship.
+
+116
+00:26:35.910 --> 00:26:41.990
+Nim Dvir: If you have any questions, please use the chat. If not, I'm just moving on in.
+
+117
+00:26:42.040 --> 00:27:07.029
+Nim Dvir: Now let's talk about keys. Keys are a fundamental for relational database keys are basically the identifiers of the roles. So each role needs to have a key. So it's key is one or more columns. It can also be a few that are used to identify a role, a, a think of the door, a key is what opens the door? A. If we have more than one attribute.
+
+118
+00:27:07.030 --> 00:27:14.569
+It's as a key. It's called the composite key. If it's like, let's say first, the last name, a candidate keys everything that's unique.
+
+119
+00:27:14.570 --> 00:27:39.090
+Nim Dvir: A, and the primary key is a a what we chose to use as our key. So the database management system, a will use it to uniquely identify each role in a relationship. The the primary key in the relationship will be underlying in the schema we underline the priority. So from now on moving on forward when you write a a relation, when you write it.
+
+120
+00:27:39.090 --> 00:27:46.930
+Nim Dvir: when you describe, you have to underline the primary key that's crucial and in order for
+
+121
+00:27:47.350 --> 00:28:12.329
+Nim Dvir: in order for us, or or whoever widget to know what your primary key is. And I repeat, it's super important to define and identify a primary key, because and this is the value that I use to retrieve the data from the road. So let's say, we have a student table for all of us here. So a primary key will be our student number. And let's say, I want to call
+
+122
+00:28:12.330 --> 00:28:20.300
+Nim Dvir: out to Sofia, so, Sophia, I just pull out number 3, for example, why don't I use a
+
+123
+00:28:20.300 --> 00:28:32.020
+Nim Dvir: for example? Your first name is a primary key. Why a your first name? I will not use it as a primary key for my own. For my own table. Please use the chat to to answer.
+
+124
+00:28:32.170 --> 00:28:45.529
+Nim Dvir: So I have now a table, a relationship with all of you guys it to keep track of your great. So let's say, and I use your a student. Id. Why don't I use your first name as a primary key.
+
+125
+00:28:47.380 --> 00:28:49.340
+Nim Dvir: Let's see what you're saying to check.
+
+126
+00:28:57.720 --> 00:29:00.540
+Nim Dvir: Why don't the chat? Why do I use your first name
+
+127
+00:29:04.090 --> 00:29:29.079
+Nim Dvir: exactly can be repeated. We can have 2. Sophia is in in this class. This is a small class, but and I I I'm sure you know that during the semesters and I have the same class with like 200 people in it. So we can have multiple people with the same name. Multiple people that that are called a Jason multiple people will call Z a multiple Christopher's. And
+
+128
+00:29:29.080 --> 00:29:39.150
+Nim Dvir: so it it's not a good. It's that it's a candidate key, and it's a primary key. Because, let's say, I want to pull up the data. If for Christopher, I want to pull out your
+
+129
+00:29:39.220 --> 00:29:50.510
+Nim Dvir: your great, if all a pull out using Christopher, the database will not know which, Christopher I mean right? And and it wouldn't know which instance of which
+
+130
+00:29:50.700 --> 00:30:06.379
+Nim Dvir: which in a data I'm referring to. So it's not good if I want to do a if I want to do a great check for Sophia, right? You come to my office and you say, Hey, please, from your my grades. I can't answer you if if I don't have a key for you, if I can pull you up
+
+131
+00:30:06.380 --> 00:30:22.830
+Nim Dvir: of the system. So Sophia is not good because we have, we can potentially have multiple people. So a key has to be unique. So for example, let's look at a table called employee. This is a schema. So usually we use a number
+
+132
+00:30:22.830 --> 00:30:29.130
+Nim Dvir: a, because it's unique. It's easy to a right. We underline it. It's
+
+133
+00:30:29.560 --> 00:30:54.280
+Nim Dvir: Best practice is to use it as the first, a column, a in our schema, so we underline it. And this is our primary key. This is how we identify. So I want to pull up a information about employees, let's say, with your employees, I use the employee. Number 1, 2, 3, 4. I don't use the first name, not the last name. That's the department that the email and that the phone, Because they're not unique.
+
+134
+00:30:54.280 --> 00:31:08.139
+Nim Dvir: My email can be unique. And so that can be a candidate key. What can be an issue with an email? Why wouldn't I recommend a for you to use an email address as a primary key? Because technically.
+
+135
+00:31:08.430 --> 00:31:16.150
+Nim Dvir: you don't have multiple emails? Right? Each each of you has a unique email. Why wouldn't I recommend using an email as a primary key?
+
+136
+00:31:20.510 --> 00:31:22.060
+Nim Dvir: What do you think?
+
+137
+00:31:23.420 --> 00:31:29.190
+Nim Dvir: Why wouldn't you? Why shouldn't you use an email as a primary key?
+
+138
+00:31:37.470 --> 00:31:38.980
+Nim Dvir: Oh, you think people
+
+139
+00:31:42.390 --> 00:31:43.829
+Nim Dvir: come on, just try.
+
+140
+00:31:47.910 --> 00:31:48.690
+Nim Dvir: Hmm.
+
+141
+00:31:49.020 --> 00:31:56.620
+Nim Dvir: emails change. That's a good idea. I didn't think about that. Yeah, email changes true. Because and
+
+142
+00:31:57.190 --> 00:32:12.339
+Nim Dvir: okay. But let's say that, that's a true point of the problem. Let's say that now we're in Albany. And and we get our all going to do email. And we pretty much stick with the same email. So let's let's not use that. Let's say, emails stay the same.
+
+143
+00:32:12.690 --> 00:32:23.450
+Nim Dvir: I'm with the same email for all of my years in Albany have been in open for many years. And same email. What what else can be a reason not to use? That is a primary key.
+
+144
+00:32:27.030 --> 00:32:39.739
+Nim Dvir: Dipole. That's a good, that's a good direction. And and that's what I mean. A emails are complicated. I'm not numbers. They have a it can be uppercase. It can be lowercase.
+
+145
+00:32:39.900 --> 00:32:50.730
+Nim Dvir: It's hard to write it. A lot of letters. It's complicated. It has an at sign. It has unique signs. It has a lot of things that are a
+
+146
+00:32:50.920 --> 00:33:15.190
+Nim Dvir: technically possible but not a good practice, especially if you're dealing with very big databases. Numbers are much, much, much easier. So let's say, I want to pull up the data for Stephanie and I excellently write, The email in upper case? Then I won't get the value instead of just using the student number 1, 2, 3, 4, whatever, then I will find
+
+147
+00:33:15.190 --> 00:33:41.050
+Nim Dvir: much easier. So always a prefer to a use numbers just best practice. They use that as a primary key. So this is a schema a here this is how it looks like describes a table a. I expect you from now on a first of all, to know how to read this to know what it's simple, but also know how to write it. So when you describe tables in your exercises and in your
+
+148
+00:33:41.120 --> 00:33:46.050
+Nim Dvir: work, describe them, using the schema looking like this.
+
+149
+00:33:46.100 --> 00:34:10.330
+Nim Dvir: And so we said that unique keys identify one and only one row. So a in the textbook Ispn only A is is the primary key. Because, Ipn, it's a unique number that only refers to one text. So we if we want to pull up a textbook, we just use the primary key. So a a private key has to be unique and simple.
+
+150
+00:34:10.330 --> 00:34:18.899
+Nim Dvir: just for one. So for you guys, it will be your student Id or your net, or anything like that that's unique.
+
+151
+00:34:18.940 --> 00:34:20.219
+Nim Dvir: And
+
+152
+00:34:20.340 --> 00:34:29.929
+Nim Dvir: a now, we also have something that's called a composite key. Composite key is when we use 2 attributes together to A and
+
+153
+00:34:30.270 --> 00:34:51.019
+Nim Dvir: to have a primary key. So let's say, we have a table for apartments, and we have a building number apartment number number of bedrooms and rent. Why do we use? Why building number and apartment number together? They both underline together a primary keys. Why do we need to use both of them, in order to have a primary key.
+
+154
+00:34:51.540 --> 00:35:03.189
+Nim Dvir: Please answer the check. This is important. Why do we use apartment? And why do we use a building number and apartment number together, not just building or just the apartment number
+
+155
+00:35:03.620 --> 00:35:07.229
+Nim Dvir: in order to identify a unique apartment.
+
+156
+00:35:13.120 --> 00:35:22.649
+Nim Dvir: Exactly so. Not only that apartment numbers are repeated. okay. So first of all, apartment number are repeated. Let's say we live in on
+
+157
+00:35:22.650 --> 00:35:35.130
+Nim Dvir: 343 streets. We have multiple. A, we have a multiple buildings here. All the buildings have the same, pretty much same. A a
+
+158
+00:35:35.130 --> 00:35:58.540
+Nim Dvir: scheme of of how they describe the apartment, probably one apartment, 2 apartment to be a part of it. We don't know which one, and also just the building is no good because we are building one. We have building 2, we have building 3 by doesn't refer to a so an apartment. So only together, a building number and apartment number together identify just a unique apartment.
+
+159
+00:35:58.540 --> 00:36:23.350
+Nim Dvir: Okay, I want to say, by the way, and so this class, I'm taking notes of people who participate. If for bones points afterwards. So Christopher and, Stephanie, you're doing a very good job in a in participating, and I'm taking notes for that. And I appreciate it. So thank you. And participation is important if you see that you're not doing so well in your exercises in your answer.
+
+160
+00:36:23.350 --> 00:36:40.149
+Nim Dvir: This is the way to get bonus points and to make me, and at the end of the class, maybe give you a little bump. So, and a thank you for participating. It helps me it to the class. It makes things more interesting. So thank you for that. so primary key.
+
+161
+00:36:40.150 --> 00:37:05.139
+Nim Dvir: it's identical in the purposes to identify a role in the grow. And if if we refer to it from a different table. It's called the foreign key. So a foreign team is when we identify a primary key from a different table. So this is how we create the connection between the tables. I'll show you that in a very soon. Second, I think I'm so sick. I'm sorry just to say that you know as well
+
+162
+00:37:05.890 --> 00:37:08.830
+Nim Dvir: sorry. And
+
+163
+00:37:08.850 --> 00:37:31.170
+Nim Dvir: so it helps organize the relationships. And this is how we index and search and do all those stuff. I'll show you on Thursday how we define primary keys on access. But basically, when we go to the table design and we go to this part where we see all the column of the field names or the column names they in the top. Right we can
+
+164
+00:37:31.170 --> 00:37:39.169
+Nim Dvir: If you find a primary queue, just click on the button primary key. I'll show you that on Thursday we'll open access and and we'll play around
+
+165
+00:37:39.360 --> 00:37:40.460
+Nim Dvir: in.
+
+166
+00:37:42.340 --> 00:37:46.019
+Nim Dvir: So surrogate key is
+
+167
+00:37:46.250 --> 00:37:50.309
+Nim Dvir: kind of like a fake, something that we add in
+
+168
+00:37:50.310 --> 00:38:20.129
+Nim Dvir: a afterwards, just to have a unique key. So let's say, we have a table for properties. So street, city State zip all those together identity, our composite key. And that's complicated. Usually we try to avoid using so many a a a field is a composite key because it may lead to errors and and would be complicated to write all these things down when we want to pull up the data. So instead, we just create
+
+169
+00:38:20.520 --> 00:38:45.520
+Nim Dvir: a unique identifier like property Id, and and that's it. And that's a surrogate key. So it doesn't really a exist in real life. But it for the database purposes. It. It helps a I I identify a role. So it's a a circuit key. It's just a column with numbers. And you. You'll see when we move along that that's something that I
+
+170
+00:38:45.520 --> 00:39:01.400
+Nim Dvir: I usually recommend just to have a column with numbers. as your a primary key, and that's where you put the Id and all of that. So that's a surrogate key. And instead of having multiple and a values, we just use one as a primary.
+
+171
+00:39:01.950 --> 00:39:30.399
+Nim Dvir: A foreign key is when we put a primary key in a a different table. That's the connection. And we symbolize it by using italic. So, for example, let's say we have 2 tables. We have an employee table and a department table. So and department is recognized by the department name. So let's say I'm in the department of the Isba information systems and business analytics. And
+
+172
+00:39:30.550 --> 00:39:55.369
+Nim Dvir: and it's appears sorry if it's one time in the department table and then in the Iba is the code, let's say. And then we have the budget, the office, the phone, all of that one time, and then we have the employee appoint number one. Name the beer, and then Isba, the department that refers to me to the department here. So that's in italic, and that's a foreign key.
+
+173
+00:39:55.370 --> 00:40:03.579
+Nim Dvir: It just means that the primary key from here is here and that way. If I I want to pull out the data from an
+
+174
+00:40:03.840 --> 00:40:28.910
+Nim Dvir: for the department. So let's say, I want to pull out a the phone number for my department. So I use it using the key. And and I know that in my role a in Isba means which department I am and just points out to the department table and connect them together. Let me ask you a question in the poll. Do you understand the concept of cheese? I
+
+175
+00:40:29.110 --> 00:40:34.120
+Nim Dvir: I try to explain to you. You also have it in the readings, of course. And
+
+176
+00:40:35.200 --> 00:40:36.279
+Nim Dvir: do you
+
+177
+00:40:43.620 --> 00:40:46.380
+Nim Dvir: the concept of he's
+
+178
+00:41:00.210 --> 00:41:05.679
+Nim Dvir: okay. Here is a survey. Do you understand the concept of keys? Yes. So so I know.
+
+179
+00:41:10.840 --> 00:41:15.030
+Nim Dvir: Hey, see? Okay.
+
+180
+00:41:15.040 --> 00:41:22.329
+Nim Dvir: what with the other people who are participating. I'm guessing you just tuned out. It's unfortunate, and
+
+181
+00:41:22.610 --> 00:41:29.920
+Nim Dvir: but it gives me some kind of tracking. I see the people who are with me. I understand the concept of keys that's good.
+
+182
+00:41:32.200 --> 00:41:42.250
+Nim Dvir: And so, I said, a foreign key is when we refer to another table. So, for example, if we have a table for textbook in a table for publishers.
+
+183
+00:41:42.360 --> 00:41:46.839
+Nim Dvir:  a. A publisher here is a foreign key
+
+184
+00:41:46.890 --> 00:41:51.000
+Nim Dvir: to the publisher table. It just points out to it.
+
+185
+00:41:51.020 --> 00:42:14.810
+Nim Dvir: And then we know the textbook. For example, your textbook, a database concept is by Pearson, and then a in the in the publisher table. We have Pearson with the address of Pearson, so which street, city, State, Zip, and all that together. So publisher in a textbook is a foreign key, and that reference a. The publisher role in the publisher table.
+
+186
+00:42:15.430 --> 00:42:16.300
+Nim Dvir: Good.
+
+187
+00:42:16.460 --> 00:42:18.560
+Nim Dvir: great, and
+
+188
+00:42:22.690 --> 00:42:34.849
+Nim Dvir: that it's that referential integrity constraints. That's a a very big name for something that's very, very simple. Referral to it, because it just means that a valuable
+
+189
+00:42:35.160 --> 00:42:35.940
+see it?
+
+190
+00:42:37.240 --> 00:42:39.210
+Nim Dvir: Hello! Got it
+
+191
+00:42:40.330 --> 00:42:53.189
+Nim Dvir: sorry, That the value of a foreign key must match the value of an existing primary key. So that just makes sense. We can have a foreign T without a primary key.
+
+192
+00:42:53.420 --> 00:42:57.090
+Nim Dvir: It has to point to it in
+
+193
+00:42:57.290 --> 00:42:58.939
+Nim Dvir: so
+
+194
+00:42:59.000 --> 00:43:05.480
+Nim Dvir: a a foreign key. If we if we use the 40, the primary key must exist. And
+
+195
+00:43:05.770 --> 00:43:16.719
+Nim Dvir: so it's basically it's a rule. It just means that if it, if a publisher is a foreign key in textbook, it must exist in the publisher table. It's just
+
+196
+00:43:16.940 --> 00:43:32.499
+Nim Dvir: make sense, you know. We can't do it, and we can do otherwise, because if it doesn't exist, then it doesn't exist, then then we we have nothing to refer to, and we enforce it in excess, which I'll show you on Thursday. Now, I'm
+
+197
+00:43:32.600 --> 00:43:46.850
+Nim Dvir: if you're excuse me, I think we are gonna end this very soon, because I'm not very, very sick, apparently. They I just want to make sure before a a go, that you know what you need to do. So let me open
+
+198
+00:43:47.940 --> 00:43:54.010
+Nim Dvir: and let me go very quickly to the to our website.
+
+199
+00:43:55.780 --> 00:44:00.309
+Nim Dvir: Second, and you can use the checks to questions. I hope you are
+
+200
+00:44:00.490 --> 00:44:01.530
+Nim Dvir: join.
+
+201
+00:44:02.590 --> 00:44:05.759
+Nim Dvir: No, what's wrong with this.
+
+202
+00:44:06.820 --> 00:44:08.480
+Nim Dvir: Okay? And
+
+203
+00:44:13.070 --> 00:44:15.009
+Nim Dvir: hmm, something stuck
+
+204
+00:44:20.380 --> 00:44:21.679
+Nim Dvir: your window
+
+205
+00:44:23.070 --> 00:44:26.310
+Nim Dvir: here in here. Bring it here.
+
+206
+00:44:31.510 --> 00:44:33.469
+Nim Dvir: added my bright space here.
+
+207
+00:44:42.710 --> 00:44:49.370
+Nim Dvir: By the way, there is a new plagiarism. I hope you got the announcement is, so don't play, you guys.
+
+208
+00:44:49.900 --> 00:45:00.680
+Nim Dvir: So a a, this is our beautiful bright space. I remind you, we always use the same zoom link. So we're gonna use the same one on Thursday, at 10 Am.
+
+209
+00:45:01.290 --> 00:45:05.279
+Nim Dvir: A course. Information we go to the for syllabus
+
+210
+00:45:05.780 --> 00:45:10.789
+Nim Dvir: always use it a just to know what's up and what you need to do.
+
+211
+00:45:11.010 --> 00:45:21.350
+Nim Dvir: So we are now a here on a Tuesday today tonight you have who is number 3
+
+212
+00:45:21.820 --> 00:45:26.630
+Nim Dvir: coming up. Who is number 3? Just
+
+213
+00:45:26.800 --> 00:45:39.740
+Nim Dvir: a sq. Questions about a chapter 2. So if you haven't read Chapter 2, make sure to read it and and a and do quiz number 3 by tonight. So and
+
+214
+00:45:39.830 --> 00:45:47.390
+Nim Dvir: a remember that tomorrow you have to a finish. The second simulation
+
+215
+00:45:47.680 --> 00:46:15.719
+Nim Dvir: a Thursday morning we are meeting, and then at night, you already you already need to a and prepare exercise to. So please review a exercise to by and Thursday, so we can go over it, and I will answer your questions. So a exercise to appear on in in the second a capstone. So go to course, content.
+
+216
+00:46:19.420 --> 00:46:20.320
+Nim Dvir: 2
+
+217
+00:46:20.550 --> 00:46:26.959
+Nim Dvir: exercise to ask you to ask to answer the questions. A 238 to 240
+
+218
+00:46:26.960 --> 00:46:54.929
+Nim Dvir: at the end of chapter 2. Remember to type up a I don't like. When people did a when you roll it by hand, it took pictures. I take points from it, so remember to type it up and and submit the documents itself or the Pdf. A. I will go over it on Thursday. If you have any questions you you also have who is number 3 that needs to be done tonight. So go over the exercise. Maybe started on Thursday,
+
+219
+00:46:55.400 --> 00:46:56.400
+Nim Dvir: and
+
+220
+00:46:57.280 --> 00:47:10.950
+Nim Dvir: a on Thursday. Will a a go over the exercise. A. Here you have the slides they available, so you can go over the slides in preparation, and also when you do the quiz and
+
+221
+00:47:11.620 --> 00:47:24.449
+Nim Dvir: a and then you have a in the weekend. You need to do the second capstone. I'm gonna ask you a another poll question. Hey? How are you dealing with a my lab? That's the new.
+
+222
+00:47:24.470 --> 00:47:27.910
+Nim Dvir: that's the one we you do the capsule, the simulations
+
+223
+00:47:47.570 --> 00:47:48.460
+Nim Dvir: hard.
+
+224
+00:47:59.590 --> 00:48:02.710
+Nim Dvir: So plus and
+
+225
+00:48:04.630 --> 00:48:07.369
+Nim Dvir: last question, how are you managing my lab
+
+226
+00:48:07.960 --> 00:48:13.380
+Nim Dvir: because you already had the first capstone in your first simulation.
+
+227
+00:48:18.130 --> 00:48:30.599
+Nim Dvir: Okay, so it's about 50 50. You'll get the hang of it. And I put up in the in the in the model a. I put up under the Co. Under course. Information
+
+228
+00:48:30.950 --> 00:48:33.510
+Nim Dvir: a. My lab. It links.
+
+229
+00:48:33.720 --> 00:48:47.690
+Nim Dvir: You have your also the link for support to context support. These are the best people. If you have any issues with your system, with your device, something doesn't work, then just contact support it should work.
+
+230
+00:48:47.800 --> 00:49:09.900
+Nim Dvir: hey? Give yourself enough time. So in the weekend you have to finish in the second capstone a tomorrow you have to finish the second simulation. Tomorrow we're not meeting you, just doing the reading, and then on Thursday we will meet. I will go over the second exercise that's due to. Let's do it the night, and I will finish the lecture that you have available on it.
+
+231
+00:49:10.000 --> 00:49:13.190
+Nim Dvir: Black space. So any questions for me
+
+232
+00:49:13.270 --> 00:49:32.450
+Nim Dvir: a please use the chat, and if not, then you can go, and I will post this lecture on a a bright space. I will post the recording, and we will meet on Thursday morning, and please come refreshed, and I will try to better. I'm sorry that I was a little sick, and
+
+233
+00:49:32.490 --> 00:49:34.410
+Nim Dvir: so I'm going to stop my share.
+
+234
+00:49:35.200 --> 00:49:42.060
+Nim Dvir: and here I am. A. Have a good day, everyone, and please, I'm here for a few more minutes. If you have any questions for me.
+
+235
+00:49:42.490 --> 00:49:44.869
+Nim Dvir: I hope you know what you need to do. So I'm here.
+
+236
+00:49:51.230 --> 00:49:57.330
+Nim Dvir: That's just so. You want to tell me. You want to remind me again what we're talking about, and you you, if you don't mind.
+
+237
+00:49:58.350 --> 00:50:02.570
+Jayson Ardon: Yeah. So last night I was going off the
+
+238
+00:50:02.580 --> 00:50:04.040
+Jayson Ardon: the class like
+
+239
+00:50:04.090 --> 00:50:07.779
+Nim Dvir: grades and assignments, and I was confused. I was like
+
+240
+00:50:07.890 --> 00:50:16.090
+Jayson Ardon: how they, when you were going to post the when to do the the excel thing. And then I checked I one thing that I checked the syllabus because
+
+241
+00:50:16.250 --> 00:50:29.420
+Jayson Ardon: I didn't realize it was already in this little bit. I thought you had it announced it. So I missed it. I was just gonna ask how that would affect my great, I mean, now I know it. So I I'll like, go into my lab and actually do them because I was. I was just confused about that.
+
+242
+00:50:29.690 --> 00:50:51.939
+Nim Dvir: Well, for the first of all, you can still do so, do whatever you can, and the calculation is very simple. You have you have in the in the service how much each one of them is worth. So you can just do your own Caucasians. You miss something. You see how many points it's worth. And that's basically how many points you lost from your final grade.
+
+243
+00:50:52.810 --> 00:50:58.350
+Jayson Ardon: Okay? Cause I was, I looked on the my lab thing, and it wouldn't show up anymore so completely.
+
+244
+00:50:58.690 --> 00:51:00.559
+Jayson Ardon: At least the
+
+245
+00:51:01.000 --> 00:51:24.460
+Nim Dvir: it should be. It should be still up there. But you're gonna lose points for for doing it late. Yeah. A. But just go over the service and see how much they're worth, and you'll see the the simulation. They are not worth a lot of points. I believe it's just one or 2 points each from your final. So it's really not. You still still haven't lost anything. Major.
+
+246
+00:51:24.850 --> 00:51:26.160
+Jayson Ardon: Okay, okay.
+
+247
+00:51:26.580 --> 00:51:28.670
+Nim Dvir: cool. And just just keep.
+
+248
+00:51:28.920 --> 00:51:51.359
+Nim Dvir: Also, you know, I remind you in every lecture, what what you need to do is also just like fit into that. And so so I'm not trying to be your coach here. So yeah, but but you're fine. You're fine, and I mean the first week. It's really like, I take you to consideration that people are, you know, busy still to adjusting. So you'll be fine.
+
+249
+00:51:51.570 --> 00:51:53.990
+Nim Dvir: Okay.
+
+250
+00:51:54.480 --> 00:51:55.820
+Jayson Ardon: alright. Thank you
+
+251
+00:51:57.730 --> 00:51:59.330
+Nim Dvir: any more questions. Anyone.
+
+252
+00:52:01.000 --> 00:52:02.660
+Nim Dvir: You have something for me.
+
+253
+00:52:04.940 --> 00:52:05.930
+Nim Dvir: Eliza.
+
+254
+00:52:07.630 --> 00:52:13.300
+Nim Dvir: No, okay. So bye, everyone. And I'll post this recording.
+
