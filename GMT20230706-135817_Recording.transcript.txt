@@ -1,0 +1,1346 @@
+WEBVTT
+
+1
+00:00:15.160 --> 00:00:43.230
+Nim Dvir: Zoom the recording. I was hoping to have a little bit more participation today, because today is a bit of a difficult class. Today, we're covering it. We're covering sequel structure, quality language, which is a a complicated topic in A, In in the timeframe that you have a I remind you that we are condensing a a class that of 4 months into just a few weeks. So
+
+2
+00:00:43.520 --> 00:01:08.520
+Nim Dvir: you don't have a lot of time to get your feet with and practice everything and sequel is hard is programming, and there's a lot to do. The reward is that you will be able to a finish it a in in a very short time, and discuss will be a behind you. A. I'm I'm following your performance, and you know it's there's some that are good. Some there are.
+
+3
+00:01:08.520 --> 00:01:16.190
+Nim Dvir: But overall. I I see that you're doing pretty well. I finished grading everything that was due in.
+
+4
+00:01:16.230 --> 00:01:22.640
+Nim Dvir: and I was pretty satisfied with the the results I will not go over the
+
+5
+00:01:22.710 --> 00:01:44.560
+Nim Dvir: the exercise today, access to, because we have a lot to do, and and next Tuesday I will go over exercise to and exercise a 3 that you have come up. So I remind you to a use this opportunity to ask questions that you can either unmute yourself or just use the chat. And and I'm going to share my screen.
+
+6
+00:01:44.760 --> 00:01:49.130
+Nim Dvir: and I'm going to go over everything with you. So share my screen.
+
+7
+00:01:54.380 --> 00:02:01.949
+Nim Dvir: and I hope that you can see my screen this one. So I am here in the in a
+
+8
+00:02:01.950 --> 00:02:26.930
+Nim Dvir: course bright space. This is our page. I have to say that I'm getting kind of used to it. I hope you, too, I remind you. Every Tuesday and Thursday at 10 Am. We meet at the same zoom link. Just save it, and there won't be any changes, and you have everything that's upcoming here. So tonight you need to submit exercise 3. I will go over it today over the questions. Just
+
+9
+00:02:26.930 --> 00:02:42.930
+Nim Dvir: make sure that you are aware. I remind you that in the calendar you don't have the exercises from a my lab, it the capstones, and the simulations for that you have to go to the syllabus and make sure that you follow the scales, and
+
+10
+00:02:42.930 --> 00:03:12.300
+Nim Dvir: the capsones and simulations have been a tested by me millions of times. A a lot of students already took them. So if you run into difficulties. This is most definitely on your end. There's something wrong on your end, and I can troubleshoot individually for students. Your best bit is either try again. Try from a different device or a contact, the a person, a technical support. That's why you should give yourself enough time and advance.
+
+11
+00:03:12.300 --> 00:03:24.999
+Nim Dvir: because don't wait to the last minutes, but they all the capstones and the simulations have been tested, and they work a so, and keep that in mind. Let me open the class syllabus
+
+12
+00:03:25.730 --> 00:03:43.519
+Nim Dvir: just to to show you where we are. So we finished a week 2, which was the relation model. I hope that you know what will actually model our sorry. It's my Joseph. Sorry I don't mind.
+
+13
+00:03:43.550 --> 00:03:51.099
+Nim Dvir: So we finish the election model with them all, basically a search that a in a database design
+
+14
+00:03:54.200 --> 00:03:55.080
+Nim Dvir: me
+
+15
+00:03:55.290 --> 00:04:16.530
+Nim Dvir: that in a database design a, we use multiple tables. They that are connected together, The process of breaking tables into different teams is called normalization? Can someone very quickly the chat? Tell me, why do we use multiple tables that are connected together? Why do we use a relational relation or design.
+
+16
+00:04:19.019 --> 00:04:22.350
+Nim Dvir: What's the purpose? Why not just do everything in one tape
+
+17
+00:04:25.670 --> 00:04:28.550
+Nim Dvir: in the chat? Please. Participation matters.
+
+18
+00:04:31.810 --> 00:04:39.889
+Nim Dvir: So in the check. Why do we use relational model? Why do we use relation to design? Why is that the most important part of database?
+
+19
+00:04:41.260 --> 00:04:45.720
+Nim Dvir: This basically separates the database from spread? Why do we use relations.
+
+20
+00:04:46.320 --> 00:04:48.910
+Nim Dvir: multiple tables connected together.
+
+21
+00:04:51.550 --> 00:05:14.879
+Nim Dvir: So yeah, an organization in single theme. But mostly you have to think of modification problem. If we have multiple a data points, we don't want to enter something multiple times. We always have to think efficiency and redundancy, if something change it, bear that it changes only in one table and at multiple times. And and that's just a mindset that you have to think about.
+
+22
+00:05:14.940 --> 00:05:38.040
+Nim Dvir: So a after we moved with the with building tables and connecting them and creating relations on week 3, we are focused on quarries. Quarries are a basically questions that we are asking in the database in order to pull data to pull data from multiple a tables and to see it in one place. Now, in the language that that
+
+23
+00:05:38.290 --> 00:05:46.770
+Nim Dvir: that fuels, everything is sequel or structure core language. It's a programming language I gave you.
+
+24
+00:05:46.770 --> 00:06:11.769
+Nim Dvir: I gave you a 2 tutorials. One was required, and one was the bonus point, and the reason that I gave you is because W. 3 is a great resource, a. For learning sequel. So in you'll see, there's a lot of commands, and there's a lot of functions in sequel. If you don't really know a I don't even remember the correct syntax. Then a going to the
+
+25
+00:06:11.770 --> 00:06:36.769
+Nim Dvir: W. 3 is your best bet, and that's the place where and you can a draw things and draw information and and learn how to write sequel. So A. The slides are already available for you on under the under the moral, and I'm going to go over them a quickly. So a. My first question, I'm going to do the poll, and I'm going to write a poll. And that's very important to me.
+
+26
+00:06:36.770 --> 00:06:47.750
+Nim Dvir: There was a lot of readings, and the main reading was Chapter 3 in the Cronkey book there was the assigned readings, so did you do the readings?
+
+27
+00:06:56.200 --> 00:06:57.270
+Nim Dvir: Yes
+
+28
+00:07:02.720 --> 00:07:04.530
+Nim Dvir: and no.
+
+29
+00:07:09.420 --> 00:07:12.170
+Nim Dvir: So please answer. Oh.
+
+30
+00:07:12.220 --> 00:07:15.640
+Nim Dvir: that that the one that I did. That's the one that I wanted to do.
+
+31
+00:07:21.110 --> 00:07:22.799
+Nim Dvir: So. Did you do the readings?
+
+32
+00:07:22.970 --> 00:07:28.140
+Nim Dvir: Yes, schemed and no. The reading is chapter 3,
+
+33
+00:07:29.030 --> 00:07:34.699
+Nim Dvir: basically mainly. And the reading that I put on a bright space.
+
+34
+00:07:37.380 --> 00:07:44.479
+Nim Dvir: Okay, they I see that for did one schemed
+
+35
+00:07:45.090 --> 00:07:46.280
+Nim Dvir: and
+
+36
+00:07:46.710 --> 00:08:01.689
+Nim Dvir: some of you just don't answer. Please participate if you can. We have 6 so and so more than any other, a episode of more than any other
+
+37
+00:08:02.120 --> 00:08:08.800
+Nim Dvir: in this one. You really need to do the reading, because you can't learn it from just the
+
+38
+00:08:09.410 --> 00:08:21.549
+Nim Dvir: just, the a lectures, or the slides. If you go over the chapter you will know everything that's required of you. So a chapter 3. Database concepts
+
+39
+00:08:24.200 --> 00:08:41.119
+Nim Dvir: is a shift to 3 structure. Corey language explains to you what it is, how it looks like. What do you do with it, and all the good purposes a. That we use it? It gives you also a examples, and
+
+40
+00:08:41.549 --> 00:08:52.399
+Nim Dvir: and so on. So I will. A I'm trusting you that you will. that you will a go over a the readings, and I will.
+
+41
+00:08:52.670 --> 00:09:17.670
+Nim Dvir: if I can, copy this, can copy this, and I will go over the slides right now to make sure that they they are understood. So before I go, I want to remind you very quickly. And because you're taking this class, you are a a entitled to do the Iba, the information systems in business and a links concentration. This is a different than a minor. It's just a concentration. It's like a minute
+
+42
+00:09:17.670 --> 00:09:42.150
+Nim Dvir: minor. I highly recommend it. You only need 4 classes in order to finish it, and it looks really good on your Cv. You already have 2 classes under your belt, this one, and I believe, 215. So as you plan your next year and your next steps. Please consider this concentration. I really recommend, especially if you enjoyed dealing with data and with information systems.
+
+43
+00:09:42.150 --> 00:09:54.880
+Nim Dvir: I put the emails. A of the people who can help you, Jason, The advisor and Elliot Rich, which is the department head, and also the email that specifically for the concentration in
+
+44
+00:09:55.280 --> 00:10:15.879
+Nim Dvir: only 4 classes, and you get a concentration very helpful. And so I recommend, considering, because you already need to plan for a your next semesters in your next year. I believe this is the next class that you need to take in this business systems and our assistant design. But talk about it with Jason and with Elliot.
+
+45
+00:10:16.110 --> 00:10:34.319
+Nim Dvir: Okay. So Quarry's chorus is what we use to make it easy to view and delete, change and do all sorts of things it to find data quickly, to calculate and summarize data and to automate all sorts of management tasks. So, for example, I'm opening my.
+
+46
+00:10:36.420 --> 00:10:41.609
+Nim Dvir: or is this, what is it like this? Sorry I will close this.
+
+47
+00:10:43.500 --> 00:10:45.819
+Nim Dvir: I wanted to show you on in
+
+48
+00:10:45.950 --> 00:10:50.090
+Nim Dvir: on X's, okay. So I will open access again.
+
+49
+00:10:59.540 --> 00:11:15.669
+Nim Dvir: Okay, so this is the grading database that I prepared a I added a new, a table that's called breakdown. You see, there's a kepstones and quizzes, and all those good stuff. And then there's the assignment of what people did and
+
+50
+00:11:15.670 --> 00:11:39.239
+Nim Dvir: and what student did. So these are the tables. These are the relationship, The second part that we had, and they are connected in a relational design. See, these are the relationship between the tables. So queries are questions that we ask about the a data where we can put data from multiple sources. So let's do core design.
+
+51
+00:11:39.280 --> 00:11:51.059
+Nim Dvir: My favorite access allows you to have a graphic interface. So let's say, I want to get in data from students A, I want to get their first name, their last name.
+
+52
+00:11:51.490 --> 00:11:55.150
+Nim Dvir: I want to get there and
+
+53
+00:11:56.840 --> 00:11:59.450
+Nim Dvir: assignment in
+
+54
+00:12:01.080 --> 00:12:03.580
+Nim Dvir: delivery of type
+
+55
+00:12:04.620 --> 00:12:12.049
+Nim Dvir: and great. Okay? And I would like to.
+
+56
+00:12:14.150 --> 00:12:16.960
+Nim Dvir: I would like to.
+
+57
+00:12:19.230 --> 00:12:22.830
+Nim Dvir: Yep, a group it by and
+
+58
+00:12:24.060 --> 00:12:27.289
+Nim Dvir: group it by this, and to
+
+59
+00:12:27.930 --> 00:12:38.670
+Nim Dvir: average it by great. Okay? So I just created a very simple query where I just pulled data from table just by clicking. When I run it.
+
+60
+00:12:39.630 --> 00:12:50.550
+Nim Dvir: I get this nice a table. Let's say that I just want to get for it. The student, a Jerry. So I go to the design view
+
+61
+00:12:53.490 --> 00:12:54.910
+Nim Dvir: criteria.
+
+62
+00:12:58.560 --> 00:13:01.260
+Nim Dvir: Jerry. I it
+
+63
+00:13:02.500 --> 00:13:12.980
+Nim Dvir: up, and I get everything that jerry it. Okay, they with the average of the the capstones, and I can also change it a little bit.
+
+64
+00:13:26.490 --> 00:13:29.010
+Nim Dvir: Let's go by assignment.
+
+65
+00:13:34.350 --> 00:13:36.939
+Nim Dvir: Okay? And the average it. So
+
+66
+00:13:38.000 --> 00:13:51.270
+Nim Dvir: I can see that, Jerry, their average in the caps only 67. The average is in the quizzes is 87. Let's say I want to do a data from another table. So I get from the breakdown.
+
+67
+00:13:51.860 --> 00:13:53.030
+Nim Dvir: and
+
+68
+00:13:53.630 --> 00:13:56.730
+Nim Dvir: I want to know a it's per deliverable.
+
+69
+00:14:00.810 --> 00:14:02.000
+Nim Dvir: And
+
+70
+00:14:04.710 --> 00:14:23.439
+Nim Dvir: so I know basically how much it's worth per the deliber. This is a basic calculation. But what the fun part that I want to show you. So this is the graphic. But there is another view that we can see for the A Corey design view. So we have a data sheet view, we have a design view and we have a sequel view.
+
+71
+00:14:23.690 --> 00:14:31.730
+Nim Dvir: This is where the sequel code lives. Now, with this sequel code, I can just
+
+72
+00:14:31.880 --> 00:14:33.449
+Nim Dvir: copy paste it.
+
+73
+00:14:34.010 --> 00:14:47.019
+Nim Dvir: put it into any other a service management system, and it will run and something else that I can do. For example, I can go a to the book. I can go to the W. 3.
+
+74
+00:15:00.060 --> 00:15:03.030
+Nim Dvir: Let's do create table, for example.
+
+75
+00:15:09.000 --> 00:15:09.930
+Nim Dvir: Sorry.
+
+76
+00:15:13.610 --> 00:15:20.550
+Nim Dvir: So a, so it's basically codes that we use to do stuff. So let's do creative
+
+77
+00:15:20.890 --> 00:15:31.350
+Nim Dvir: create table persons. I just copy this. It's simple text. I go to my I I go to a access. I do create
+
+78
+00:15:31.940 --> 00:15:37.389
+Nim Dvir: Corey design. Here I choose a sequel view.
+
+79
+00:15:38.290 --> 00:15:39.190
+Nim Dvir: I
+
+80
+00:15:40.260 --> 00:15:41.740
+Nim Dvir: paste the code.
+
+81
+00:15:47.600 --> 00:15:50.770
+Nim Dvir: create table
+
+82
+00:15:51.770 --> 00:15:53.190
+Nim Dvir: and I run it.
+
+83
+00:15:57.770 --> 00:16:00.210
+Nim Dvir: And you're running. Second.
+
+84
+00:16:04.370 --> 00:16:09.040
+Nim Dvir: okay. 43, right?
+
+85
+00:16:12.110 --> 00:16:19.200
+Nim Dvir: Oh, disabled because it's disabled, so I'll show you off to. But but if it wasn't to find you.
+
+86
+00:16:30.850 --> 00:16:33.820
+Nim Dvir: hey? Let's try this one create.
+
+87
+00:16:34.320 --> 00:16:37.820
+Nim Dvir: We design sequel you.
+
+88
+00:16:41.430 --> 00:17:05.220
+Nim Dvir: Hallelujah. And you see here, on the left, a person table was created based on my codes with all of the a properties that I define the data type and all of that, So I can just save it. Create table. So now let me ask you a question. Why, what's the point? Why would I want to use code instead of just using the graphic interface. Why.
+
+89
+00:17:05.329 --> 00:17:07.269
+Nim Dvir: why are we even learning code?
+
+90
+00:17:12.619 --> 00:17:27.199
+Nim Dvir: So you saw that you can do queries. You know you can use the graphic interface access. Now, I'm showing you the code sequel, the program, That you write and create all sorts of operations on the database. Why do we need to learn this?
+
+91
+00:17:27.310 --> 00:17:29.040
+Nim Dvir: What's the advantages of this.
+
+92
+00:17:29.860 --> 00:17:32.840
+Nim Dvir: please, in the chat? Think some of the meetings?
+
+93
+00:17:39.990 --> 00:17:50.050
+Nim Dvir: So why do we need to what's the advantage of this code learning code learning sequel? Why do we need to know it? If we have graphic interface?
+
+94
+00:17:52.210 --> 00:17:53.659
+Nim Dvir: What are you thinking?
+
+95
+00:18:02.350 --> 00:18:06.120
+Nim Dvir: You can all see my screen right? You can all see my my access. Right?
+
+96
+00:18:06.700 --> 00:18:13.040
+Nim Dvir: So come on. Let me see if you here. Why do we need to run. Sequel. What's the advantage of of sequel of a code?
+
+97
+00:18:16.030 --> 00:18:18.830
+Nim Dvir: I just wait until I hear some some answer.
+
+98
+00:18:20.900 --> 00:18:22.709
+Nim Dvir: People don't disappoint me.
+
+99
+00:18:38.320 --> 00:19:05.729
+Nim Dvir: Christopher. You on fire, and I'll give you a bonus point for participation. Thank you so much. You are very right. So first of all, standardize, that's correct. Right now you are learning access but a when you go on to your a professional life, they will work with other database. Sequel is universal. It's a on all databases, no matter which one. You will use this a a code
+
+100
+00:19:05.730 --> 00:19:28.830
+Nim Dvir: by knowing it, you will know a how to create or is no matter which, a database management system. You're using the second ones you can share easily, and that's a very big plus. You just share the code. All the codes that you have in the book all the code that you have on the slides. All of this. You just share it, and you copy paste, simple text and boom
+
+101
+00:19:28.830 --> 00:19:45.019
+Nim Dvir: operations are created you can share. You can show me which queries you did. You can show me how to create a table. You can show me how to install data. All of this stuff you just share. And and you can in simple text, you can share even by and
+
+102
+00:19:45.250 --> 00:19:52.290
+Nim Dvir: by the check. So if you are, gonna copy this and try yourself. Open a access, open the sequel, screen.
+
+103
+00:19:54.030 --> 00:19:57.790
+Nim Dvir: paste this. and look what happened and see what happened
+
+104
+00:19:59.350 --> 00:20:02.859
+Nim Dvir: and put in the check. So this is how you create a table.
+
+105
+00:20:03.090 --> 00:20:07.329
+Nim Dvir: Very simple. So I'm gonna go away on with my slides.
+
+106
+00:20:09.490 --> 00:20:11.070
+Nim Dvir: So in
+
+107
+00:20:12.750 --> 00:20:37.570
+Nim Dvir: a well-designed database and a, we have queries that help us answer questions or from calculation, combine data from different table and change the lead data. All the operations that we want to do on a database. So tables of the structure. They all the data queries are the operations that we do on the data. These are the actual functions, the actual a things that we do.
+
+108
+00:20:37.630 --> 00:21:03.290
+Nim Dvir: So the main. There's 2 types of queries. One is select query, and and that's a to retrieve data. We define to the database management system which data to select and the other one is action and queries. It's to add data, delete data, change data, all of those stuff. So, for example, create table is an action. T is an action and query and select, and
+
+109
+00:21:03.430 --> 00:21:07.379
+Nim Dvir: a all of the data from the table is is selected.
+
+110
+00:21:07.650 --> 00:21:28.249
+Nim Dvir: Now I create in this slide a lot of links that explain how to do queries and how to use em in queries in Ms access. I would recommend highly that you go over those readings because they will inform you how to use SQL. And
+
+111
+00:21:28.370 --> 00:21:29.390
+Nim Dvir: in
+
+112
+00:21:29.400 --> 00:21:45.910
+Nim Dvir: is a very in demand, a skill in the workplace. So the more that you learn, the more that the more, That you'll be in is suitable for the workplace. Now, my favorite is the A. W. 3, and
+
+113
+00:21:46.260 --> 00:22:09.309
+Nim Dvir: which I a pretty much ask you to use it. It explains you on all the of a quarry, how to create, how to create a select, a how to create where and all of those a functions in sequel. Please familiarize yourself with it, and there's also a quick reference here.
+
+114
+00:22:09.700 --> 00:22:29.559
+Nim Dvir: They just explain all the operations. Keep it handy. It's very useful. So and of course, there, there's video training how to do it in access. And of course, don't a move any step further without reading. Chapter 3. Start to finish. And
+
+115
+00:22:29.560 --> 00:22:52.879
+Nim Dvir: and I put a lot of readings. All of them are good, including Youtube. Please take time to they use it. Another advantage of SQL. Is that you don't have to use access per say, SQL. Works on any a database management system. It's a code. If you don't have windows, you can use other things. I really like sqlite. Hey? Let me open it.
+
+116
+00:22:53.960 --> 00:23:03.630
+Nim Dvir: Sqlite is an online and a database that you can run SQL code. So let's run the create table here.
+
+117
+00:23:03.850 --> 00:23:15.490
+Nim Dvir: So you see, create table. It's highlight. Once I have my code ready. And you see here in this side there's which tables we have. We have a demo table already. I create. Run, I click on, run
+
+118
+00:23:15.510 --> 00:23:29.659
+Nim Dvir: in boom. The person table was created with all those, and with all the columns. So sqlite is a very useful tool to run sequel quarries and
+
+119
+00:23:29.660 --> 00:23:53.440
+Nim Dvir: without access, and to make sure that they work. So I something very important that I want to say. And in the exercise that you have today, you have to run sequel code. I will be very upset if you submit sequel code without checking that it runs first. That's just very bad practice. If you run code. Then first of all run it through
+
+120
+00:23:53.440 --> 00:24:17.860
+Nim Dvir: sequel light or Ms. Access, and make sure that the code runs properly. If the code doesn't run properly, please make notes in your submission. Right? A. I try my best. Something doesn't run. I get an error, but at least I know that you that you try. If I see code that just doesn't run a I will think that okay, these people were lazy. They didn't try their code.
+
+121
+00:24:17.860 --> 00:24:29.490
+Nim Dvir: When we're dealing with codes and programming. We have to test it and make sure that runs. Find everyone in the chat. Right? Yes, if you understand, yes or no. Do you understand that you have to run the code
+
+122
+00:24:29.710 --> 00:24:33.090
+Nim Dvir: before some meeting yes or no in the check.
+
+123
+00:24:39.180 --> 00:24:42.520
+Nim Dvir: Yes, yes, yes, very good. So I trust that you'll do it.
+
+124
+00:24:43.010 --> 00:25:09.649
+Nim Dvir: Okay? So sqlite, I recommend that you use it. And you can also download sqlite to your computer if you really insist. And and there's also my sequel that's for very advanced. It's very. It's highly used in the industry. If you want to learn more, you can do my sequel. The book it talks a little bit on my sequel, but for now I would keep it with Ms. Access and with sqlite, I believe that's enough.
+
+125
+00:25:09.950 --> 00:25:11.280
+Nim Dvir: And
+
+126
+00:25:11.410 --> 00:25:35.839
+Nim Dvir: so in my my objective today is to a learn the basic statement and to understand how the syntax works and how to write a good and proper sequ sequel command. So SQL, or structure. Corey language has been around forever, basically, since the seventies. It hasn't changed much. And it's still very, very, very popular.
+
+127
+00:25:35.840 --> 00:25:41.799
+Nim Dvir: It's text based. And it's used for a database and management.
+
+128
+00:25:41.990 --> 00:25:48.290
+Nim Dvir: So it's a database, a a targeted in a pro new languages and
+
+129
+00:25:48.540 --> 00:26:12.260
+Nim Dvir: advantages is that it's pretty much playing English, so you can read it and understand it. A disadvantages is like any other programming language you have to use a correct syntax. Syntax is just a set of rules with how you structure your commands. Okay? So you have to follow the right syntax. If you don't follow the right syntax, you'll get it.
+
+130
+00:26:12.260 --> 00:26:22.630
+Nim Dvir: Error message, and your commands will not run so in. For example, this is a very simple, a sequel statement, and he was the A. It's select
+
+131
+00:26:22.630 --> 00:26:38.099
+Nim Dvir: less name the name of the column from context, the name of the table where a condition first name equal Mary, so it will give us all the last names from the table, from contact where first name equal Mary
+
+132
+00:26:38.360 --> 00:26:41.360
+Nim Dvir: Simple, select, and we have
+
+133
+00:26:42.070 --> 00:27:07.070
+Nim Dvir: shit for a semicolon at the end to a symbolize that we finish the statement and we are ready to run it. So this is a syntax. This is a select statement. This is how we define it. There are a different types of categories for statement. We're going to focus on the first one a manipulation and definition. You don't have to worry about the other ones, they are more advanced. We do it for manipulation
+
+134
+00:27:07.070 --> 00:27:20.520
+Nim Dvir: and and and definition. And let's start with select statements here. The most common, These are used to select certain types of data a from and
+
+135
+00:27:20.990 --> 00:27:27.069
+Nim Dvir: from the database. So let's open again the grading database which I like.
+
+136
+00:27:30.280 --> 00:27:31.460
+Nim Dvir: It's open.
+
+137
+00:27:33.000 --> 00:27:36.600
+Nim Dvir: So
+
+138
+00:27:38.610 --> 00:27:45.839
+Nim Dvir: let's say that I want to select all the A students that are a named
+
+139
+00:27:45.950 --> 00:27:49.130
+Nim Dvir: Jeremy. So in in.
+
+140
+00:27:50.070 --> 00:28:01.709
+Nim Dvir: in in access, we don't have to actually write the code, a access can write it for us. This is a very useful tool. So
+
+141
+00:28:03.210 --> 00:28:12.260
+Nim Dvir: I want to select the first name, the last name, and the email from the table students, where first name is
+
+142
+00:28:12.600 --> 00:28:13.650
+Nim Dvir: Jerry.
+
+143
+00:28:14.920 --> 00:28:24.319
+Nim Dvir: Now, if I go to the single view boom! The code was already created for me in
+
+144
+00:28:24.410 --> 00:28:34.549
+Nim Dvir: the difference between how Ms access does it, and and how the book explains, is Ms access? Right. The name of the table.
+
+145
+00:28:34.880 --> 00:28:37.250
+Nim Dvir: a a name of the table
+
+146
+00:28:37.350 --> 00:28:50.199
+Nim Dvir: period name of the column, and it was the table period. Name of the column. It it doesn't matter both of those things work, Let me try and delete it. So let's select once, like the first name.
+
+147
+00:28:50.240 --> 00:28:53.630
+Nim Dvir: they all the F from their last name, the
+
+148
+00:28:54.210 --> 00:28:59.580
+Nim Dvir: for the first name. Sorry the last name and the email
+
+149
+00:29:01.200 --> 00:29:09.040
+Nim Dvir: from table students where we have a condition, a first name is student equal Jerry.
+
+150
+00:29:09.420 --> 00:29:39.959
+Nim Dvir: And then when I run it, I get this data, simple select quarry. And and that's how it's written. And so there is a few clauses that are required. The the only 2 that you have to have. First one is select in the select after the select your list which fields you want to show which column names so select, and then which count names. Obviously they have to correspond to the table from from which tables you want to select those fields.
+
+151
+00:29:39.960 --> 00:30:04.559
+Nim Dvir: and if you want to have a condition, you write where where, and you specify certain criteria you can order by if you can. If you want to sort. The result is sending, sending, you can a group by group eyes like I showed you before. If you want all the results to appear together instead of a petition. So let's say group by first name. All the results of Jerry will come together.
+
+152
+00:30:04.560 --> 00:30:16.559
+Nim Dvir: Experiment with that. It's really fun. And having is a condition for groups. And it's like where it's just for a groups. This is a little confusing, but that's just the way it is.
+
+153
+00:30:16.570 --> 00:30:33.610
+Nim Dvir: And so these are the different terms less important a. The select, close, very easy. Select the field name from the name of the table where you write a criteria and semicolon to end the sequel statement, and
+
+154
+00:30:33.640 --> 00:30:44.380
+Nim Dvir: well, you have a simple, select statement on your database that you can run and get the results. Let's in seek cool light. What's happening in the demo.
+
+155
+00:30:49.570 --> 00:30:52.950
+Nim Dvir: So let's say that I want to select everything.
+
+156
+00:30:53.470 --> 00:31:00.370
+Nim Dvir: So select A, and then I write a tricks as tricks represent everything from
+
+157
+00:31:01.040 --> 00:31:21.980
+Nim Dvir: Table demo here we don't need a semicolon. Semicolon is is good, it? It's required only in this excess, but and you should use it as much as possible. I run it, and here I select everything. Let's say that I want to select instead of everything, only in the Id.
+
+158
+00:31:22.780 --> 00:31:25.800
+Nim Dvir: So I change id. It's the column.
+
+159
+00:31:26.030 --> 00:31:29.790
+Nim Dvir: See? It already gives me one. and then I run it.
+
+160
+00:31:31.110 --> 00:31:37.079
+Nim Dvir: Boom! I get only the id number. Let's say that I want to have
+
+161
+00:31:37.590 --> 00:31:39.489
+what else is happening in the game.
+
+162
+00:31:39.770 --> 00:31:42.270
+Nim Dvir: Hey? Let's say that I want to have Id
+
+163
+00:31:43.490 --> 00:31:45.190
+Nim Dvir: and name.
+
+164
+00:31:48.260 --> 00:31:56.680
+Nim Dvir: Select any name for the demo I run boom! I get Id and name. Let's say they don't want to have a condition where
+
+165
+00:31:58.120 --> 00:32:01.270
+Nim Dvir: you see here is also where
+
+166
+00:32:03.430 --> 00:32:04.600
+Nim Dvir: Id
+
+167
+00:32:05.840 --> 00:32:09.920
+Nim Dvir: is greater than for.
+
+168
+00:32:13.890 --> 00:32:23.550
+Nim Dvir: So we got all the values from the that the Id is greater than 4 simple select, Let's run a poll
+
+169
+00:32:24.020 --> 00:32:33.870
+Nim Dvir: just to see that we're on the same page. Where is my and thing? Where is my think? Here it is here. So let me write a pole.
+
+170
+00:32:42.580 --> 00:32:44.369
+Nim Dvir: The question is.
+
+171
+00:32:47.200 --> 00:32:49.849
+Nim Dvir: do you, under
+
+172
+00:32:49.890 --> 00:32:57.850
+Nim Dvir: 10 select sequel syntax?
+
+173
+00:33:04.870 --> 00:33:06.130
+Nim Dvir: Yes.
+
+174
+00:33:08.710 --> 00:33:12.480
+Nim Dvir: so so, and no.
+
+175
+00:33:19.700 --> 00:33:25.829
+Nim Dvir: And let's launch this poll. So do you understand? The select equal syntax?
+
+176
+00:33:26.310 --> 00:33:29.520
+Nim Dvir: Simple, select? Yes, no. So so
+
+177
+00:33:33.780 --> 00:33:35.800
+Nim Dvir: everyone let me hear you.
+
+178
+00:33:40.240 --> 00:33:44.330
+Nim Dvir: You don't understand. Just practice practice practice practice.
+
+179
+00:33:44.580 --> 00:33:47.860
+Nim Dvir: Don't I know the time is limited, but
+
+180
+00:33:48.040 --> 00:33:54.440
+Nim Dvir: do as much as you can to practice. So I see that most of you understand it. It's good.
+
+181
+00:33:54.600 --> 00:34:00.680
+Nim Dvir: I remind you, please participate, because that shows shows me that you are. And
+
+182
+00:34:00.880 --> 00:34:03.309
+Nim Dvir: here, but also it's in
+
+183
+00:34:03.690 --> 00:34:11.050
+Nim Dvir: It's good for you. So select. I think I covered that enough, all of the and
+
+184
+00:34:11.820 --> 00:34:13.650
+all of the and
+
+185
+00:34:14.170 --> 00:34:22.869
+Nim Dvir: and all of the syntax that we have select from where it's where we put our condition. And
+
+186
+00:34:22.870 --> 00:34:46.509
+Nim Dvir: this is the wedgebook specific example. We have a schema in a where we can a create, that to create a object we can alter, that's to change object, drop if on delete things, truncate if you want to delete tables. So, for example, as I showed you a, the sequel syntax to create a table.
+
+187
+00:34:46.540 --> 00:34:51.430
+Nim Dvir: create table. That's the command. We write the table, name
+
+188
+00:34:51.550 --> 00:35:10.069
+Nim Dvir: a all in the upper case. Best practice open parentheses. We write the different column names we write which data type. They are the book as a very good table data types. Such a, also A. W 3 school has a a a
+
+189
+00:35:10.350 --> 00:35:40.009
+Nim Dvir: and a a reference for data types. And then, if you have this, a or a constraints, such as length, a, and a default value, and so on. And, for example, if you want to create table departments. So we say, we write create table department, open parentheses. We write the name of the columns we write which a data tanks, they are characters no length. A. If they primary key.
+
+190
+00:35:40.010 --> 00:36:07.489
+Nim Dvir: if there, no, not no, many empty, not empty. If there's a default value and all of those. So this is an example how to write syntax, to create table. Now, the exercise that you that's do tonight is going to ask you to create tables. Don't submit your answer before running this, either in Ms access or in sqlite, because you want to make sure that they, a code that you are writing.
+
+191
+00:36:07.490 --> 00:36:23.629
+Nim Dvir: A, indeed creates a table. Okay? I'm I'm reminding you again, In the exercise you you need to write, create, take, create, table code, write it and then run it in the database to make sure that it runs. And then there's no arrows.
+
+192
+00:36:23.940 --> 00:36:25.160
+Nim Dvir: And
+
+193
+00:36:25.330 --> 00:36:43.259
+Nim Dvir: so the data types in the book. They're on page 146, You also have in the W. 3 school. They data types. If you want, and let me find that I, I, I use it a lot. And
+
+194
+00:36:45.490 --> 00:36:49.209
+Nim Dvir: if you can hold me here, data, types, data types.
+
+195
+00:36:51.820 --> 00:36:55.860
+Nim Dvir: what is it? I?
+
+196
+00:37:04.820 --> 00:37:06.080
+Nim Dvir: I can.
+
+197
+00:37:09.790 --> 00:37:14.180
+Nim Dvir: Okay, these are functions. And
+
+198
+00:37:14.740 --> 00:37:18.510
+Nim Dvir: what is the data type?
+
+199
+00:37:26.410 --> 00:37:28.929
+Nim Dvir: I've seen the quick reference?
+
+200
+00:37:35.350 --> 00:37:59.880
+Nim Dvir: Oh, sorry. so here you have the different data types for a A. A. Ms access. And and this is just how. And so let's they're pretty similar. But just a refer to the Ms access. And so he, Msx is data types. And these are the data types that you write after the columns. And
+
+201
+00:38:00.030 --> 00:38:07.360
+Nim Dvir: but basically all also, the others will work as well. But if you just need a reference. This is where you go when you create it.
+
+202
+00:38:07.660 --> 00:38:32.660
+Nim Dvir: Okay? So here, more examples how to create tables, how to define a, you can write at the end constraint and define what's a primary key is? So the department name is a primary key for the department and employee it. The employee number is the primary key for the employee table. You can add auto increments. If you want it to a
+
+203
+00:38:32.660 --> 00:38:56.289
+Nim Dvir: go, you can have a primary key that's composite. So project id and employee number together our primary key. So this is how we define. You have examples in the slides how to create tables and define primary keys as well as foreign keys. At the bottom we write strength and foreign keys, so the best practice to use here is to first
+
+204
+00:38:56.290 --> 00:39:11.459
+Nim Dvir: create a schema, like we learned in previous classes, right? The the the text. You know the name of the tables, the different fields, define the primary key for each table and the foreign keys connection. And then just
+
+205
+00:39:11.460 --> 00:39:35.140
+Nim Dvir: a a transfer those schemas into a SQL. Syntax to create tables based on your schema. You write the table name outside of the parentheses, open parentheses right to different columns, right? Which a data type, they are right to different constraints, and all of them all of the constraints. And then, once you've done, what are you doing? You are
+
+206
+00:39:35.140 --> 00:39:42.800
+Nim Dvir: copying it and pasting it, either in sqlite or in Ms. Access, just to make sure that it works
+
+207
+00:39:43.070 --> 00:40:10.450
+Nim Dvir: amazing. So a little manipulation, let's insert data, update data and delete data is. So, for example, let's say, we want to insert into a something. So we, the syntax, is insert into employee, and we in we can do 2 ways. First, we can a open parentheses and write the name of the columns to which columns we want to insert the data.
+
+208
+00:40:10.450 --> 00:40:24.919
+Nim Dvir: and then we close the parentheses. Then we write values. We open the parentheses, and then we enter the values, and then the values that we right here will a and be inserted into the columns based on the order we will.
+
+209
+00:40:24.920 --> 00:40:39.260
+Nim Dvir: They we defined earlier. We can also do something a little shorter, and then we say, insert into department and then values, and then just the values and to go into it will go into the
+
+210
+00:40:40.200 --> 00:40:46.300
+Nim Dvir: a different columns if we don't define them. So let's look, for example, in the
+
+211
+00:40:47.090 --> 00:40:48.070
+this.
+
+212
+00:40:51.770 --> 00:40:54.470
+Nim Dvir: the students we have
+
+213
+00:40:55.230 --> 00:40:58.610
+Nim Dvir: person. I'm email.
+
+214
+00:40:59.070 --> 00:41:00.790
+Nim Dvir: So it's
+
+215
+00:41:00.950 --> 00:41:01.950
+Nim Dvir: right.
+
+216
+00:41:04.330 --> 00:41:05.860
+Nim Dvir: Let's try something
+
+217
+00:41:12.890 --> 00:41:14.809
+Nim Dvir: still, insert into
+
+218
+00:41:17.500 --> 00:41:18.840
+Nim Dvir: students
+
+219
+00:41:21.180 --> 00:41:22.570
+Nim Dvir: the values.
+
+220
+00:41:26.220 --> 00:41:27.229
+Nim Dvir: I'm open it.
+
+221
+00:41:36.300 --> 00:41:42.480
+Nim Dvir: Jersey. I may do something wrong. But this is basically, I would just
+
+222
+00:41:46.130 --> 00:41:48.639
+Nim Dvir: and then I believe it's her.
+
+223
+00:41:51.120 --> 00:41:53.580
+Nim Dvir: It's your email, right? We have email.
+
+224
+00:42:00.960 --> 00:42:02.869
+Nim Dvir: Let's see if I can do that.
+
+225
+00:42:07.950 --> 00:42:12.220
+Nim Dvir: So already forgot. Let's see here.
+
+226
+00:42:19.830 --> 00:42:28.599
+Nim Dvir: Hmm! It's been disabled because because I don't have this so and
+
+227
+00:42:32.460 --> 00:42:35.040
+Nim Dvir: that sucks in
+
+228
+00:42:35.820 --> 00:42:38.529
+Nim Dvir: because they are the permissions.
+
+229
+00:42:41.380 --> 00:42:43.599
+Nim Dvir: So what do we have in persons
+
+230
+00:42:46.230 --> 00:42:47.870
+Nim Dvir: listening. First name.
+
+231
+00:42:48.250 --> 00:42:50.550
+Nim Dvir: Okay, so let's try this
+
+232
+00:43:08.360 --> 00:43:10.739
+Nim Dvir: pay. We to close the table.
+
+233
+00:43:15.450 --> 00:43:20.510
+Nim Dvir: Okay? So the number is not the same. It has to be the same, and
+
+234
+00:43:22.840 --> 00:43:26.660
+Nim Dvir: we have id less than first name address in cities.
+
+235
+00:43:41.060 --> 00:43:47.009
+Nim Dvir: I'm just trying here, you know. It's just to see if it works if it doesn't. But
+
+236
+00:43:48.070 --> 00:43:51.699
+Nim Dvir: okay, you are about to append. Yes.
+
+237
+00:43:51.700 --> 00:44:16.670
+Nim Dvir: and then when we go to persons and we'll refresh boom the data that we entered just enter it. Now, this May seems annoying, but think about it. If you have multiple, a lot, a lot of data that you need to insert into tables instead of just copying past it. You just copy the whole, a command the insert into, and then you ensure that
+
+238
+00:44:16.670 --> 00:44:37.869
+Nim Dvir: to the table. Now, access has a little of a an issue. Access can only run one insert command at a time. So once you put the in semicolon, that's it. You you need to run it. A sqlite can run more to pull into it at a time. So just take that into account. And
+
+239
+00:44:37.910 --> 00:44:44.620
+Nim Dvir: so another select. Here we are selecting multiple columns from the table. That's the result.
+
+240
+00:44:44.910 --> 00:44:46.080
+Nim Dvir: In
+
+241
+00:44:46.270 --> 00:44:53.020
+Nim Dvir: select everything. We use a s. 3 to select everything from a table and get all the values
+
+242
+00:44:54.820 --> 00:44:59.520
+Nim Dvir: and select just certain comes with some projects.
+
+243
+00:45:01.590 --> 00:45:04.469
+Nim Dvir: direct department from projects.
+
+244
+00:45:06.170 --> 00:45:29.840
+Nim Dvir: Select everything from projects where condition department, equal finance. We get already the data that, The department equal finance. So these are just a a queries that we, a a express in sequel. Now, in our conditions, we can use a operations. This is the list of the operations. If you have a condition.
+
+245
+00:45:29.840 --> 00:45:44.309
+Nim Dvir: they in the where. Just know that that's how you write it, equal, not equal, greater than greater, equal in, not in between. Not like is no, it's not. No. You use them in the condition.
+
+246
+00:45:44.310 --> 00:45:53.030
+Nim Dvir: For example, let's say that I want to select all the columns from project where maximum hours is greater than 1, 35, and 2.
+
+247
+00:45:53.030 --> 00:46:17.719
+Nim Dvir: I run this command, and I get this results. So this is when I use an operation in a condition. Now I know this is confusing, but the best way is to practice practice practice here. We use order by, if you want order by a if a the default is sending. If you wanna a a. A descending, we have to add order by department descending
+
+248
+00:46:18.280 --> 00:46:20.110
+Nim Dvir: and in.
+
+249
+00:46:20.180 --> 00:46:39.000
+Nim Dvir: I want to get to the join. The join is a very interesting. So before that in the condition we can have multiple conditions. So, for example, select multiple columns from employee table, where we have 2 condition department equals counting, and the phone equals Zoom Phone
+
+250
+00:46:39.780 --> 00:46:41.010
+Nim Dvir: and
+
+251
+00:46:41.920 --> 00:47:08.490
+Nim Dvir: and or not. But let's go to a joining. Joining is the interesting part. And so these are the conditions, and you can go over them yourself. In a we have built in aggregate function. We can count. We can sum, we can average, we can minimum and maximum. So, for example, if I want to count everything from projects, it just tells me
+
+252
+00:47:08.490 --> 00:47:19.859
+Nim Dvir: 7. If I wanted to change the name of the column. I want to count everything a as in correct number of Project 7, for example, let's see if I do it from the grading.
+
+253
+00:47:20.210 --> 00:47:22.210
+Nim Dvir: I've created a new quarry
+
+254
+00:47:24.640 --> 00:47:27.650
+Nim Dvir: on one account, or all of my assignments.
+
+255
+00:47:29.540 --> 00:47:33.820
+Nim Dvir: So assignments and I want to count. I want to come to me.
+
+256
+00:47:41.860 --> 00:47:44.900
+Nim Dvir: Okay, this done, good. So let's count Id.
+
+257
+00:47:48.560 --> 00:47:58.370
+Nim Dvir: And in the total I want to do count by count. So you will just tell me how many assignments they are. If if I run it.
+
+258
+00:47:58.650 --> 00:48:14.630
+Nim Dvir: the results is 9, there's 9 assignments. But if I want to go to the sequel view, this is how it looks. Select count a assignment id as count of of id from assignment. So this is aggregation.
+
+259
+00:48:14.850 --> 00:48:19.629
+Nim Dvir: Got it, and or I can do something else
+
+260
+00:48:26.150 --> 00:48:28.289
+Nim Dvir: I could go to assignment.
+
+261
+00:48:29.460 --> 00:48:31.429
+Nim Dvir: I can go to grade.
+
+262
+00:48:34.150 --> 00:48:36.000
+Nim Dvir: I can average it.
+
+263
+00:48:37.920 --> 00:48:39.300
+Nim Dvir: average it right?
+
+264
+00:48:40.350 --> 00:48:47.410
+Nim Dvir: So I see the average grade is 76, and if I go to the sequel view
+
+265
+00:48:47.530 --> 00:49:09.739
+Nim Dvir: average rate as average of great from assignment. So this is the syntax of a doing aggregation in something very cool, which I wanna make sure that we do before and that's join. Join is when we have multiple a tables.
+
+266
+00:49:09.740 --> 00:49:38.789
+Nim Dvir: And we want to get data from a a bunch of them. So there. And this is the syntax. Select column from table one inner Joan table, 2. So which tables we want to connect A and the condition where column and name in table one equal kernel name in table 2. So this is sound complicated. But basically this is what it is. Let me show you how it looks from the grading. So in
+
+267
+00:49:39.150 --> 00:49:42.440
+Nim Dvir: create or a design.
+
+268
+00:49:43.530 --> 00:49:44.980
+Nim Dvir: I want to get
+
+269
+00:49:46.400 --> 00:49:57.709
+Nim Dvir: all the students in their assignments right. And they're connected already in the student id here and student id here. So I want to get the first name, the last name
+
+270
+00:49:59.530 --> 00:50:12.120
+Nim Dvir: delivery type, delivery number and grade. So basically, I'm getting a data from 2 tables that are connected by join the syntax is
+
+271
+00:50:12.800 --> 00:50:16.139
+Nim Dvir: select which comes to. I want
+
+272
+00:50:16.660 --> 00:50:17.870
+from
+
+273
+00:50:18.320 --> 00:50:24.979
+Nim Dvir: a student table. Inner Joan, meaning it, has to match the values, has to match
+
+274
+00:50:24.980 --> 00:50:48.839
+Nim Dvir: a on assignment in a joint with the assignment table on Student I. The value of student id in the student table has to equal student Id in the assignment table. So basically, the primary key in the student table has to equal the foreign key in the assignment table, and then we'll get all the data that corresponds.
+
+275
+00:50:48.840 --> 00:50:52.099
+Nim Dvir: If I want to head. If I want to add another table.
+
+276
+00:50:52.360 --> 00:50:56.850
+Nim Dvir: it's they want to break down to your break, and is with the type.
+
+277
+00:50:57.050 --> 00:50:58.020
+Nim Dvir: And
+
+278
+00:50:58.360 --> 00:51:09.950
+Nim Dvir: I want to know a a points per deliverable, for example. So that's from another table. So now we have joined from 3 tables. Right? So go to view
+
+279
+00:51:10.340 --> 00:51:11.740
+Nim Dvir: Sequel view
+
+280
+00:51:11.780 --> 00:51:18.740
+Nim Dvir: and my join just got a little bit more complicated. So select which columns
+
+281
+00:51:18.900 --> 00:51:20.090
+from
+
+282
+00:51:20.210 --> 00:51:46.999
+Nim Dvir: break down inner Joan on student inner joint assignments on when student id in student equals students in the assignment and type in breakdown, equals the liberal type in assignments complicated, but makes much more sense. Once you start experimenting with that, you basically define. Where's the foreign key? Where's the primary key? And you run it now. And
+
+283
+00:51:47.600 --> 00:51:53.119
+Nim Dvir: so the rest of it is just a a lot of in a in
+
+284
+00:51:53.460 --> 00:52:17.430
+Nim Dvir: a examples that I encourage you to go over. So this is a very long slide where I included a lot of examples. Basically, what you need to know for the exercise it's do today is how to they create table, the into data, select a where condition and a some join to it
+
+285
+00:52:17.430 --> 00:52:27.169
+Nim Dvir: to get data from multiple tables. All of those examples are available to you in the, in.
+
+286
+00:52:27.270 --> 00:52:39.510
+Nim Dvir: in the slides that are on bright space. Now let me go over the A exercise that's too. Can someone writing the chat which questions I ask you from the book.
+
+287
+00:52:39.790 --> 00:52:49.659
+Nim Dvir: So I know that I asked you questions from the exercise. First of all, read all chapter 3, someone, please write in the chat? Which question did I ask you from the book
+
+288
+00:52:55.060 --> 00:52:57.089
+Nim Dvir: question to ask you from the book.
+
+289
+00:52:59.930 --> 00:53:01.650
+Nim Dvir: please right in the chat
+
+290
+00:53:08.610 --> 00:53:13.430
+Nim Dvir: which questions first one, let's see which question you to ask you for the exercise.
+
+291
+00:53:13.610 --> 00:53:22.259
+Nim Dvir: 3, 49 to 354. Perfect. Thank you, Christopher. You are great today. So you're going to Chapter 3,
+
+292
+00:53:22.620 --> 00:53:28.869
+Nim Dvir: and you are going after you reach up to 3 carefully you go into summary.
+
+293
+00:53:29.450 --> 00:53:31.370
+Nim Dvir: You go to exercises.
+
+294
+00:53:34.370 --> 00:53:48.439
+Nim Dvir: Here you have the exercise. They they describe the out course database shown in figure 1, 12. If you actually want to see the figure, you can find it a here.
+
+295
+00:54:05.900 --> 00:54:19.829
+Nim Dvir: So figure 112 is here. It's on page 13. This is how it looks like you can take a screenshot now, if you want. But This is the in database that it refers to. Let's go back to the exercise.
+
+296
+00:54:36.380 --> 00:54:37.140
+Nim Dvir: Okay?
+
+297
+00:54:37.190 --> 00:54:56.520
+Nim Dvir: So you have the schema of the tables. You have the customer table. You have the course table, and you have an enrollment table in which a customer number and course number of foreign keys. You made signaling that there's a relationship customer appears here and course.
+
+298
+00:54:56.520 --> 00:55:09.509
+Nim Dvir: So this is the database. And you have to read about the database how it's a what kind of direct. It's towards. Now you open a word, document
+
+299
+00:55:09.720 --> 00:55:15.489
+Nim Dvir: each question a from the question that I gave you, and you copy, and you bold
+
+300
+00:55:15.490 --> 00:55:39.959
+Nim Dvir: underneath it you write the sequel statement. Okay? So you first of all, you write the sequel statement either in Ms access or in sqlite, you make sure that it runs and you paste the sequel statement a statements that are necessary. So the first one, our sequel statements a the necessary to create the tables and the referential integrity, constraint.
+
+301
+00:55:39.960 --> 00:55:55.840
+Nim Dvir: So the different a connection between the tables make sure that the code works, run it in sequel light or run it in a sequel. I remind you, sequel right online. This is the link. I'll put it in the chat.
+
+302
+00:55:56.630 --> 00:56:01.839
+Nim Dvir: I like sqlite very much. It's simple. You don't need to open a access for it.
+
+303
+00:56:01.840 --> 00:56:26.839
+Nim Dvir: but make sure that it works if it doesn't work, please put in notes next to it that you are aware that it doesn't work, because they will show me that you tried. If it doesn't. If you don't do that, and I see that you made a mistake, I will take more points and then populate the tables with the data in the in figure 112. So you go back to the figure that I showed you earlier, and you use sequence
+
+304
+00:56:26.840 --> 00:56:39.050
+Nim Dvir: statements. So what are the sequels that can someone tell me very quickly, what's the sequel statement that we use to populate a table. What's the first word that we use in order to put a data in the table?
+
+305
+00:56:39.210 --> 00:56:40.580
+Nim Dvir: What word?
+
+306
+00:56:49.030 --> 00:57:13.809
+Nim Dvir: Exactly. So a. You go into the table, insert into you. Go into the table, look at the data, and you write all of those insert into statements like this. You write all the statements that will match the data in the In, in the figure 112. You write them like this. You run them either in sqlite
+
+307
+00:57:13.810 --> 00:57:38.480
+Nim Dvir: or with Ms. Access. Make sure that they work, and you paste them in the documents. Easy peas, so far is so. These 2 questions are easy now, and you need, To write a few select statements, the first one sequel, query to list all occurrences, meaning all of the of the data, or all the rows of it events, but tells that the name of a course is the course table.
+
+308
+00:57:38.710 --> 00:57:49.049
+Nim Dvir: So basically, what you want to do, you want to select everything from the course table a where, and I believe it's called coast name.
+
+309
+00:57:49.660 --> 00:58:02.470
+Nim Dvir: We're course, equal advance pistol, and you get everything all of the columns from course, where something equals advance pistol. You have a condition. That's that
+
+310
+00:58:03.060 --> 00:58:11.229
+Nim Dvir: a another sequel and list all students and courses they are registered for and include in this order
+
+311
+00:58:11.450 --> 00:58:37.479
+Nim Dvir: customer number customer's name. Okay, this is a join, and this is very cool. So first of all, you say, select and you select which a columns do you want to select from which table in your joint you inter. Join them when something equals something right. When customer number equal cu a equal customer number here and
+
+312
+00:58:37.700 --> 00:59:02.550
+Nim Dvir: try it out. That's why I recommend to have Ms access open or sqlite. Open a and see that it works a tip. If you already have the data, set the database a up and running with the data. You can also use the graphic interface, then to create a sequel code for you. And you just copy past the sequel code. I'm fine with that as long as the sequel code is correct.
+
+313
+00:59:03.210 --> 00:59:13.029
+Nim Dvir: And then you have all student registered for the class advance. But still that's a condition starting on October and
+
+314
+00:59:13.030 --> 00:59:37.450
+Nim Dvir: 19 a it to 2019. Here you have to see a working with dates. You have a condition greater than a October and 19 include which comes. So you have to select this columns from which tape which table with join where you have the condition, a course thing equal events, pastel and date greater than this.
+
+315
+00:59:37.560 --> 00:59:39.139
+Nim Dvir: That's 350,
+
+316
+00:59:40.020 --> 01:00:04.679
+Nim Dvir: 3, 53, and finally 3 54, another in a complicated join and join a sequel. Select scorey. All students registering vessels starting in include all of those a columns? A. It requires you to use a join on a can this query be run?
+
+317
+01:00:04.680 --> 01:00:14.199
+Nim Dvir: Using one or more sub queries, if not the one, not this is basically, you know what treat this as a bonus. I don't, really. And I
+
+318
+01:00:14.970 --> 01:00:42.229
+Nim Dvir: we didn't cover subcourse because the class is really a quick. A. Some query is just inside of the where you put another quarry here. It asked you to use a joint. So just to that and answer that question, make sure that you get the right data. So the way to go about. It is first of all, create the tables based on that, run it in sequel, light or in excess. Make sure that the tables are created
+
+319
+01:00:42.520 --> 01:00:44.500
+Nim Dvir: great next.
+
+320
+01:00:44.620 --> 01:00:51.079
+Nim Dvir: And so the data you go to figure 1 12, which I believe I showed you which page was, and
+
+321
+01:00:51.650 --> 01:00:55.169
+Nim Dvir: I believe it was in on page a. 13.
+
+322
+01:00:56.240 --> 01:00:59.789
+Nim Dvir: So you go to a 1 12
+
+323
+01:01:00.020 --> 01:01:00.950
+Nim Dvir: here.
+
+324
+01:01:01.070 --> 01:01:26.070
+Nim Dvir: and you insert all the data into those tables very, very easy. It's very complicated. Just copy the syntax you insert. You have data in the tables check. You've got this. The next ones are a select queries. You can use Ms access or sqlite to get the results that you want play around with the experiment. By the end of this exercise you should have.
+
+325
+01:01:26.070 --> 01:01:34.079
+Nim Dvir: I have a basic grasp of sequel so, and the reason that I'm making you do it is because sequel is
+
+326
+01:01:34.080 --> 01:01:35.020
+Nim Dvir: important.
+
+327
+01:01:35.020 --> 01:01:44.829
+Nim Dvir: and and I really want you to know it. But the end of this class. You would you should be able to. We, it should be able to say, We know. Sequel.
+
+328
+01:01:45.030 --> 01:02:01.909
+Nim Dvir: Okay, so what else do you have? So today, exercise 3 needs to be submitted through my space every through bright space, everything in one document with your sequel code, and you have Capstone 3 and do on
+
+329
+01:02:02.150 --> 01:02:28.520
+Nim Dvir: Saturday. I believe so. Caps on 3 on Monday we're starting database modeling. We have the first simulation. Tuesday. We are meeting at the end of Tuesday you have a quiz. We'll talk about modeling. We'll go over the exercises on Tuesday. We have meeting in person. Wednesday kept some 4, and then on Thursday. You have the next exercise and the simulation that we'll get to meet on Thursday and on
+
+330
+01:02:28.520 --> 01:02:37.529
+Nim Dvir: Tuesday. So this is it. I'm stepping to share a. I'm here. If you have any questions for me, if not, then
+
+331
+01:02:37.530 --> 01:02:41.050
+Nim Dvir: please go to your in.
+
+332
+01:02:41.070 --> 01:02:49.180
+Nim Dvir: Go welcome, you exercise. Don't submit late, and make sure that everything works fine. I'm stopping the share.
+
+333
+01:02:53.430 --> 01:03:08.630
+Nim Dvir: Stop in the share, and I will upload this recording to blackboard, so you can refer to it, and I'm here. If you have any questions, please let me know, and if not, then go work on your exercise, and good luck
+
+334
+01:03:08.660 --> 01:03:09.880
+Nim Dvir: bye, everyone.
+
+335
+01:03:16.040 --> 01:03:18.539
+Nim Dvir: Good day. Thank you. Good day, everyone.
+
+336
+01:03:20.210 --> 01:03:21.270
+Sofia Couto: Hi!
+
